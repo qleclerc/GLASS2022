@@ -1,0 +1,20 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Acinetobacter spp.
+Antibiotic filter: Doripenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Acinetobacter spp.","Doripenem",50,50,50,50,50
+2018,"BLOOD","Acinetobacter spp.","Doripenem",51.6129032258064,51.6129032258064,51.6129032258064,51.6129032258064,51.6129032258064
+2019,"BLOOD","Acinetobacter spp.","Doripenem",55.1724137931034,55.1724137931034,55.1724137931034,55.1724137931034,55.1724137931034
+2020,"BLOOD","Acinetobacter spp.","Doripenem",66.1087866108787,66.1087866108787,66.1087866108787,66.1087866108787,66.1087866108787
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Acinetobacter spp.","Doripenem",1349,76,38,50
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Doripenem",2629,31,16,51.6129032258064
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Doripenem",5463,145,80,55.1724137931034
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Doripenem",6159,239,158,66.1087866108787

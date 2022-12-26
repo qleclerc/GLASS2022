@@ -1,0 +1,84 @@
+Filters
+Region filter: All
+Infection syndrome filter: Urinary tract
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Ceftazidime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"URINE","Klebsiella pneumoniae","Ceftazidime",1.98329853862213,16.7809393212204,34.6938775510204,50.5593536357986,96.6666666666667
+2018,"URINE","Klebsiella pneumoniae","Ceftazidime",4.54577932749332,19.8265684159101,33.9920948616601,54.1557762676424,82.6086956521739
+2019,"URINE","Klebsiella pneumoniae","Ceftazidime",4.22740524781341,19.0189328743546,33.0645161290323,52.1596858638744,79.3893129770992
+2020,"URINE","Klebsiella pneumoniae","Ceftazidime",4.84628388954981,20.48392442824,34.6839546191248,54.5143638850889,91.4728682170543
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",13558,2653,549,20.6935544666415
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",22331,4355,1020,23.4213547646383
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",27055,5453,1161,21.2910324591968
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",29681,6034,1236,20.48392442824
+"ARG","Argentina","Region of the Americas",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",39782,3218,1627,50.5593536357986
+"ARG","Argentina","Region of the Americas",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",44553,3855,1860,48.2490272373541
+"ARG","Argentina","Region of the Americas",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",35830,3478,1756,50.4887866589994
+"ARG","Argentina","Region of the Americas",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",29170,3020,1532,50.728476821192
+"BGD","Bangladesh","South-East Asia Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",209,29,18,62.0689655172414
+"BGD","Bangladesh","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",412,77,38,49.3506493506493
+"BGD","Bangladesh","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",488,85,35,41.1764705882353
+"BGD","Bangladesh","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",261,44,17,38.6363636363636
+"CHE","Switzerland","European Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",97650,1336,46,3.44311377245509
+"CHE","Switzerland","European Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",118114,11954,618,5.16981763426468
+"CHE","Switzerland","European Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",139721,14396,730,5.07085301472631
+"CHE","Switzerland","European Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",153286,15971,774,4.84628388954981
+"FIN","Finland","European Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",281729,3832,76,1.98329853862213
+"FIN","Finland","European Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",159588,2313,389,16.8179853004756
+"FIN","Finland","European Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",159676,2324,442,19.0189328743546
+"FIN","Finland","European Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",146108,1932,425,21.9979296066253
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",810851,23336,3916,16.7809393212204
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",863293,24563,4870,19.8265684159101
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",880701,33819,4777,14.1251958957982
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",651538,26240,3541,13.4946646341463
+"IND","India","South-East Asia Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",10034,566,280,49.469964664311
+"IND","India","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",25203,745,458,61.4765100671141
+"IND","India","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",47746,943,541,57.3700954400848
+"IND","India","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",18235,97,78,80.4123711340206
+"JPN","Japan","Western Pacific Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",452366,72699,3523,4.84600888595442
+"JPN","Japan","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",423516,69977,3181,4.54577932749332
+"JPN","Japan","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",453889,75687,4169,5.50821144978662
+"JPN","Japan","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",475584,79319,5155,6.49907336199397
+"KOR","Republic of Korea","Western Pacific Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",9130,1256,362,28.8216560509554
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",8554,1299,365,28.0985373364126
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",8565,1295,334,25.7915057915058
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",8567,1274,338,26.530612244898
+"MYS","Malaysia","Western Pacific Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",19286,5041,1696,33.6441182305098
+"MYS","Malaysia","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",19914,5242,1695,32.3349866463182
+"MYS","Malaysia","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",19312,4727,1447,30.6113814258515
+"MYS","Malaysia","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",18124,5001,1494,29.874025194961
+"NOR","Norway","European Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",2252,740,33,4.45945945945946
+"NOR","Norway","European Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",2117,694,39,5.61959654178674
+"NOR","Norway","European Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",2187,686,29,4.22740524781341
+"NOR","Norway","European Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",3219,699,40,5.72246065808298
+"NPL","Nepal","South-East Asia Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",295,30,29,96.6666666666667
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",4866,138,114,82.6086956521739
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",9953,262,208,79.3893129770992
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",5975,129,118,91.4728682170543
+"OMN","Oman","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",4377,769,364,47.334200260078
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",3636,500,290,58
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",8941,1528,797,52.1596858638744
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",3343,523,380,72.6577437858509
+"PHL","Philippines","Western Pacific Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",6689,1685,962,57.0919881305638
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",8074,1913,1036,54.1557762676424
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",9132,2414,1281,53.0654515327258
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",4560,1444,807,55.8864265927978
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",3860,1041,390,37.463976945245
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",5627,1583,861,54.3903979785218
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",5587,1534,839,54.6936114732725
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",4464,1462,797,54.5143638850889
+"THA","Thailand","South-East Asia Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",2250,330,200,60.6060606060606
+"THA","Thailand","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",4301,830,370,44.578313253012
+"THA","Thailand","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",9011,1712,768,44.8598130841121
+"THA","Thailand","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",11131,2333,1062,45.5207886840977
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Ceftazidime",3523,1127,391,34.6938775510204
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Ceftazidime",12711,1518,516,33.9920948616601
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Ceftazidime",5444,372,123,33.0645161290323
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Ceftazidime",5309,617,214,34.6839546191248

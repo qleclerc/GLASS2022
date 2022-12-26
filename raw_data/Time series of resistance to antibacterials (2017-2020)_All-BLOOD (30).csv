@@ -1,0 +1,100 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Imipenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Klebsiella pneumoniae","Imipenem",0,6.55737704918033,13.4715025906736,21.8623481781377,69.4915254237288
+2018,"BLOOD","Klebsiella pneumoniae","Imipenem",0.125995590154345,8.41423948220065,14.1843971631206,27.027027027027,90
+2019,"BLOOD","Klebsiella pneumoniae","Imipenem",0,5.45454545454545,16.2756598240469,38.8688327316486,87.8787878787879
+2020,"BLOOD","Klebsiella pneumoniae","Imipenem",0.0767831885229339,6.06060606060606,20.7413945278023,53.6985205917633,71.8446601941748
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",1982,476,47,9.87394957983193
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",2452,545,47,8.62385321100918
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",2464,504,37,7.34126984126984
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",2925,599,75,12.5208681135225
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",6657,1332,247,18.5435435435435
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",7385,1517,300,19.77587343441
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",5783,1166,182,15.6089193825043
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",7376,1756,424,24.1457858769932
+"BHR","Bahrain","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",196,59,41,69.4915254237288
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",633,30,27,90
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",780,66,58,87.8787878787879
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",568,103,74,71.8446601941748
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",634,144,13,9.02777777777778
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",841,200,27,13.5
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",1020,210,78,37.1428571428571
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",954,207,76,36.7149758454106
+"CHE","Switzerland","European Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",9259,880,2,0.227272727272727
+"CHE","Switzerland","European Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",19539,1924,12,0.623700623700624
+"CHE","Switzerland","European Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",10424,1162,5,0.430292598967298
+"CHE","Switzerland","European Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",10256,1197,4,0.334168755221387
+"EGY","Egypt","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",102,61,40,65.5737704918033
+"EGY","Egypt","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",967,356,206,57.8651685393258
+"EGY","Egypt","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",1114,409,237,57.9462102689486
+"EGY","Egypt","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",901,206,138,66.9902912621359
+"GEO","Georgia","European Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",105,30,10,33.3333333333333
+"GEO","Georgia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",216,74,20,27.027027027027
+"GEO","Georgia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",433,134,48,35.8208955223881
+"GEO","Georgia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",741,231,127,54.978354978355
+"IND","India","South-East Asia Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",8532,1339,460,34.3539955190441
+"IND","India","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",14459,1482,689,46.4912280701754
+"IND","India","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",24223,4366,2190,50.1603298213468
+"IND","India","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",12371,2501,1343,53.6985205917633
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",168145,28936,28,0.0967652750898535
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",126859,22223,28,0.125995590154345
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",136246,23497,31,0.131931735966294
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",142185,24745,19,0.0767831885229339
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",3518,693,5,0.721500721500722
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",3519,701,10,1.4265335235378
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",3646,716,7,0.977653631284916
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",4095,870,32,3.67816091954023
+"MKD","North Macedonia","European Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",175,22,3,13.6363636363636
+"MKD","North Macedonia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",176,37,4,10.8108108108108
+"MKD","North Macedonia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",276,55,3,5.45454545454545
+"MKD","North Macedonia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",293,118,2,1.69491525423729
+"MLT","Malta","European Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",574,122,8,6.55737704918033
+"MLT","Malta","European Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",1116,141,20,14.1843971631206
+"MLT","Malta","European Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",624,137,9,6.56934306569343
+"MLT","Malta","European Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",530,132,8,6.06060606060606
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",25686,5472,212,3.87426900584795
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",26268,5372,201,3.74162323157111
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",25194,5132,202,3.9360872954014
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",20249,4435,198,4.46448703494927
+"OMN","Oman","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",1043,213,34,15.962441314554
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",631,115,31,26.9565217391304
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",1007,281,79,28.1138790035587
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",876,64,38,59.375
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",2323,181,70,38.6740331491713
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",7410,455,254,55.8241758241758
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",8980,347,206,59.3659942363112
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",5623,247,118,47.7732793522267
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",5103,1044,175,16.7624521072797
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",5595,1035,149,14.3961352657005
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",6468,1364,222,16.2756598240469
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",4276,1133,235,20.7413945278023
+"RUS","Russian Federation","European Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",321,125,14,11.2
+"RUS","Russian Federation","European Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",427,163,38,23.3128834355828
+"RUS","Russian Federation","European Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",1173,236,127,53.8135593220339
+"RUS","Russian Federation","European Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",1305,370,232,62.7027027027027
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",1491,494,108,21.8623481781377
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",2420,782,238,30.4347826086957
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",2528,831,323,38.8688327316486
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",2458,761,331,43.4954007884363
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",1349,202,22,10.8910891089109
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",2629,309,26,8.41423948220065
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",5463,865,102,11.7919075144509
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",6159,1154,107,9.27209705372617
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",835,193,26,13.4715025906736
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",1660,400,55,13.75
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",932,200,35,17.5
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",917,174,27,15.5172413793103
+"UGA","Uganda","African Region",2017,"BLOOD","Klebsiella pneumoniae","Imipenem",112,10,0,0
+"UGA","Uganda","African Region",2018,"BLOOD","Klebsiella pneumoniae","Imipenem",76,12,1,8.33333333333333
+"UGA","Uganda","African Region",2019,"BLOOD","Klebsiella pneumoniae","Imipenem",70,17,0,0
+"UGA","Uganda","African Region",2020,"BLOOD","Klebsiella pneumoniae","Imipenem",133,14,1,7.14285714285714

@@ -1,0 +1,52 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Levofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",1.77747449145382,17.1171171171171,40.625,51.6806722689076,67.3913043478261
+2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2.02787281982809,17.5675675675676,41.1764705882353,55.6776556776557,57.6271186440678
+2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2.14080516311833,18.5185185185185,26.1390887290168,58.0357142857143,65.3266331658292
+2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2.48065459661594,25.2631578947368,31.1387900355872,59.9009900990099,65.9574468085106
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",1982,32,13,40.625
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2452,17,7,41.1764705882353
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2464,27,5,18.5185185185185
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2925,81,21,25.9259259259259
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",634,111,66,59.4594594594595
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",841,196,111,56.6326530612245
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",1020,199,130,65.3266331658292
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",954,202,121,59.9009900990099
+"CHE","Switzerland","European Region",2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",9259,355,28,7.88732394366197
+"CHE","Switzerland","European Region",2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",19539,884,105,11.8778280542986
+"CHE","Switzerland","European Region",2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",10424,472,44,9.32203389830508
+"CHE","Switzerland","European Region",2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",10256,588,44,7.48299319727891
+"EGY","Egypt","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",102,46,31,67.3913043478261
+"EGY","Egypt","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",967,273,152,55.6776556776557
+"EGY","Egypt","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",1114,362,224,61.878453038674
+"EGY","Egypt","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",901,188,124,65.9574468085106
+"GEO","Georgia","European Region",2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",105,25,12,48
+"GEO","Georgia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",216,59,34,57.6271186440678
+"GEO","Georgia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",433,38,17,44.7368421052632
+"GEO","Georgia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",741,68,27,39.7058823529412
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",168145,30774,547,1.77747449145382
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",126859,23966,486,2.02787281982809
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",136246,25411,544,2.14080516311833
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",142185,27009,670,2.48065459661594
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",5103,444,76,17.1171171171171
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",5595,576,119,20.6597222222222
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",6468,673,172,25.55720653789
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",4276,380,96,25.2631578947368
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",1491,238,123,51.6806722689076
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2420,679,372,54.7864506627393
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2528,672,390,58.0357142857143
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2458,706,448,63.4560906515581
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Klebsiella pneumoniae","Levofloxacin",1349,112,32,28.5714285714286
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Levofloxacin",2629,148,26,17.5675675675676
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Levofloxacin",5463,417,109,26.1390887290168
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Levofloxacin",6159,562,175,31.1387900355872

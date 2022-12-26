@@ -1,0 +1,44 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Acinetobacter spp.
+Antibiotic filter: Minocycline
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Acinetobacter spp.","Minocycline",0.0779423226812159,3.13416885261828,7.47663551401869,25.5172413793103,43.3846153846154
+2018,"BLOOD","Acinetobacter spp.","Minocycline",0.24024024024024,1.65170451211641,4.42477876106195,28.261914445225,45.4545454545455
+2019,"BLOOD","Acinetobacter spp.","Minocycline",0.527704485488127,3.91179694746606,6.81818181818182,14.6865828092243,64
+2020,"BLOOD","Acinetobacter spp.","Minocycline",0,0.232712765957447,14.6341463414634,26.1539173436664,64.7887323943662
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Minocycline",1982,35,7,20
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Minocycline",2452,43,12,27.906976744186
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Minocycline",2464,44,3,6.81818181818182
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Minocycline",2925,41,6,14.6341463414634
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Acinetobacter spp.","Minocycline",6657,219,10,4.5662100456621
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Acinetobacter spp.","Minocycline",7385,226,10,4.42477876106195
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Acinetobacter spp.","Minocycline",5783,201,13,6.46766169154229
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Acinetobacter spp.","Minocycline",7376,374,78,20.855614973262
+"IND","India","South-East Asia Region",2017,"BLOOD","Acinetobacter spp.","Minocycline",8532,325,141,43.3846153846154
+"IND","India","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Minocycline",14459,629,180,28.6168521462639
+"IND","India","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Minocycline",24223,2120,406,19.1509433962264
+"IND","India","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Minocycline",12371,1329,418,31.4522197140707
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Minocycline",168145,1283,1,0.0779423226812159
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Minocycline",126859,1665,4,0.24024024024024
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Minocycline",136246,1516,8,0.527704485488127
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Minocycline",142185,1504,7,0.465425531914894
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Minocycline",3518,235,4,1.70212765957447
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Minocycline",3519,247,1,0.404858299595142
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Minocycline",3646,225,23,10.2222222222222
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Minocycline",4095,217,0,0
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Minocycline",5103,107,8,7.47663551401869
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Minocycline",5595,207,6,2.89855072463768
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Minocycline",6468,295,4,1.35593220338983
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Minocycline",4276,248,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Minocycline",1491,29,9,31.0344827586207
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Minocycline",2420,44,20,45.4545454545455
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Minocycline",2528,25,16,64
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Minocycline",2458,71,46,64.7887323943662

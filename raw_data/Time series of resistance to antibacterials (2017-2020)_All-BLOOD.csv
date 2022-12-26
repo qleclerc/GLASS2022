@@ -1,0 +1,88 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Acinetobacter spp.
+Antibiotic filter: Amikacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Acinetobacter spp.","Amikacin",0.948905109489051,31.1427799168165,64.1843971631206,74.7601700060716,94.1176470588235
+2018,"BLOOD","Acinetobacter spp.","Amikacin",0.687679083094556,24.0195936454607,57.0261317629739,68.969298245614,92.3664122137405
+2019,"BLOOD","Acinetobacter spp.","Amikacin",0.75187969924812,29.0606060606061,57.4093567251462,70.04207805716,90.0452488687783
+2020,"BLOOD","Acinetobacter spp.","Amikacin",0.689655172413793,27.9736734949571,58.9241063692082,73.1304755944931,94.8275862068966
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",1982,29,6,20.6896551724138
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",2452,17,3,17.6470588235294
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",2464,15,5,33.3333333333333
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",2925,42,4,9.52380952380952
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Acinetobacter spp.","Amikacin",6657,322,67,20.8074534161491
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Acinetobacter spp.","Amikacin",7385,347,78,22.478386167147
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Acinetobacter spp.","Amikacin",5783,275,76,27.6363636363636
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Acinetobacter spp.","Amikacin",7376,626,167,26.6773162939297
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",634,110,97,88.1818181818182
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",841,131,121,92.3664122137405
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",1020,221,199,90.0452488687783
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",954,348,330,94.8275862068966
+"CHE","Switzerland","European Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",9259,74,10,13.5135135135135
+"CHE","Switzerland","European Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",19539,121,6,4.95867768595041
+"CHE","Switzerland","European Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",10424,54,3,5.55555555555556
+"CHE","Switzerland","European Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",10256,73,5,6.84931506849315
+"EGY","Egypt","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",102,11,9,81.8181818181818
+"EGY","Egypt","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",967,76,53,69.7368421052632
+"EGY","Egypt","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",1114,94,60,63.8297872340426
+"EGY","Egypt","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",901,47,35,74.468085106383
+"GEO","Georgia","European Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",105,17,12,70.5882352941177
+"GEO","Georgia","European Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",216,28,20,71.4285714285714
+"GEO","Georgia","European Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",433,38,21,55.2631578947368
+"GEO","Georgia","European Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",741,80,50,62.5
+"IND","India","South-East Asia Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",8532,305,223,73.1147540983607
+"IND","India","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",14459,1862,1188,63.8023630504833
+"IND","India","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",24223,1245,867,69.6385542168675
+"IND","India","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",12371,1590,1088,68.4276729559748
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",168145,1370,13,0.948905109489051
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",126859,1745,12,0.687679083094556
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",136246,1596,12,0.75187969924812
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",142185,1595,11,0.689655172413793
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",3518,235,145,61.7021276595745
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",3519,247,138,55.8704453441296
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",3646,225,134,59.5555555555556
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",4095,217,122,56.221198156682
+"MKD","North Macedonia","European Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",175,18,12,66.6666666666667
+"MKD","North Macedonia","European Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",176,21,14,66.6666666666667
+"MKD","North Macedonia","European Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",276,34,24,70.5882352941177
+"MKD","North Macedonia","European Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",293,38,33,86.8421052631579
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",25686,2189,822,37.5513933302878
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",26268,2134,829,38.8472352389878
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",25194,1797,644,35.8375069560378
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",20249,1653,681,41.1978221415608
+"OMN","Oman","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",1043,106,51,48.1132075471698
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",631,55,32,58.1818181818182
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",1007,135,68,50.3703703703704
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",876,68,47,69.1176470588235
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",2323,49,33,67.3469387755102
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",7410,199,57,28.643216080402
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",8980,331,216,65.2567975830816
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",5623,331,185,55.8912386706949
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",5103,563,172,30.550621669627
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",5595,664,148,22.289156626506
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",6468,731,161,22.0246238030096
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",4276,452,76,16.8141592920354
+"RUS","Russian Federation","European Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",321,51,48,94.1176470588235
+"RUS","Russian Federation","European Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",427,76,67,88.1578947368421
+"RUS","Russian Federation","European Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",1173,118,95,80.5084745762712
+"RUS","Russian Federation","European Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",1305,244,225,92.2131147540984
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",1491,127,102,80.3149606299213
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",2420,290,227,78.2758620689655
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",2528,274,206,75.1824817518248
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",2458,419,321,76.6109785202864
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",1349,161,53,32.9192546583851
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",2629,312,96,30.7692307692308
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",5463,489,131,26.7893660531697
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",6159,612,195,31.8627450980392
+"ZAF","South Africa","African Region",2017,"BLOOD","Acinetobacter spp.","Amikacin",2931,486,366,75.3086419753086
+"ZAF","South Africa","African Region",2018,"BLOOD","Acinetobacter spp.","Amikacin",20691,1797,1175,65.386755703951
+"ZAF","South Africa","African Region",2019,"BLOOD","Acinetobacter spp.","Amikacin",20489,1529,1073,70.1765860039241
+"ZAF","South Africa","African Region",2020,"BLOOD","Acinetobacter spp.","Amikacin",23840,2606,1606,61.6270145817345

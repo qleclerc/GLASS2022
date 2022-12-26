@@ -1,0 +1,48 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+Antibiotic filter: Ciprofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",40.5405405405405,62.8203946155265,72.8550903119869,81.3480819529207,100
+2018,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",51.0416666666667,60.4283990345937,65.4356275582155,83.3231707317073,100
+2019,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",54.7692307692308,63.8621794871795,67.5520424194815,78.617527173913,99.6951219512195
+2020,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",50.3267973856209,60.3611892326235,74.5131007426089,87.2596153846154,100
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"CHE","Switzerland","European Region",2017,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",94,37,15,40.5405405405405
+"CHE","Switzerland","European Region",2018,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",110,96,49,51.0416666666667
+"CHE","Switzerland","European Region",2019,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",154,152,101,66.4473684210526
+"CHE","Switzerland","European Region",2020,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",154,153,77,50.3267973856209
+"JPN","Japan","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",982,372,282,75.8064516129032
+"JPN","Japan","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",1167,881,587,66.6288308740068
+"JPN","Japan","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",1023,936,602,64.3162393162393
+"JPN","Japan","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",825,793,565,71.2484237074401
+"MYS","Malaysia","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",217,203,152,74.8768472906404
+"MYS","Malaysia","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",183,165,106,64.2424242424242
+"MYS","Malaysia","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",168,134,92,68.6567164179104
+"MYS","Malaysia","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",138,131,83,63.3587786259542
+"NOR","Norway","European Region",2017,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",374,374,166,44.3850267379679
+"NOR","Norway","European Region",2018,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",226,226,141,62.3893805309734
+"NOR","Norway","European Region",2019,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",325,325,178,54.7692307692308
+"NOR","Norway","European Region",2020,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",475,475,244,51.3684210526316
+"OMN","Oman","Eastern Mediterranean Region",2017,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",25,24,17,70.8333333333333
+"OMN","Oman","Eastern Mediterranean Region",2018,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",19,11,6,54.5454545454545
+"OMN","Oman","Eastern Mediterranean Region",2019,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",54,46,36,78.2608695652174
+"OMN","Oman","Eastern Mediterranean Region",2020,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",23,18,14,77.7777777777778
+"PHL","Philippines","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",119,116,80,68.9655172413793
+"PHL","Philippines","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",103,100,80,80
+"PHL","Philippines","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",140,128,102,79.6875
+"PHL","Philippines","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",44,39,34,87.1794871794872
+"THA","Thailand","South-East Asia Region",2017,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",183,148,145,97.972972972973
+"THA","Thailand","South-East Asia Region",2018,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",170,164,153,93.2926829268293
+"THA","Thailand","South-East Asia Region",2019,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",79,32,20,62.5
+"THA","Thailand","South-East Asia Region",2020,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",42,40,35,87.5
+"UGA","Uganda","African Region",2017,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",355,355,355,100
+"UGA","Uganda","African Region",2018,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",340,340,340,100
+"UGA","Uganda","African Region",2019,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",329,328,327,99.6951219512195
+"UGA","Uganda","African Region",2020,"GENITAL","Neisseria gonorrhoeae","Ciprofloxacin",290,290,290,100

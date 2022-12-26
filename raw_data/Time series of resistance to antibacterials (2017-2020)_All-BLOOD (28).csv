@@ -1,0 +1,28 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Doripenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Klebsiella pneumoniae","Doripenem",5.65832426550598,7.37461667820754,9.09090909090909,10.7954545454545,12.5
+2018,"BLOOD","Klebsiella pneumoniae","Doripenem",4.2674253200569,8.01606560120492,11.7647058823529,16.5966386554622,21.4285714285714
+2019,"BLOOD","Klebsiella pneumoniae","Doripenem",4.80274442538593,6.79161611513199,8.78048780487805,14.9963045084996,21.2121212121212
+2020,"BLOOD","Klebsiella pneumoniae","Doripenem",5.13447432762836,8.24905534563236,11.3636363636364,16.6818181818182,22
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Doripenem",25686,919,52,5.65832426550598
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Doripenem",26268,703,30,4.2674253200569
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Doripenem",25194,583,28,4.80274442538593
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Doripenem",20249,409,21,5.13447432762836
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Doripenem",5103,11,1,9.09090909090909
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Doripenem",5595,14,3,21.4285714285714
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Doripenem",6468,66,14,21.2121212121212
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Doripenem",4276,100,22,22
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Klebsiella pneumoniae","Doripenem",1349,120,15,12.5
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Doripenem",2629,51,6,11.7647058823529
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Doripenem",5463,205,18,8.78048780487805
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Doripenem",6159,308,35,11.3636363636364

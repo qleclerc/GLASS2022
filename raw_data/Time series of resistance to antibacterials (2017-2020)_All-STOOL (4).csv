@@ -1,0 +1,40 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Ertapenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"STOOL","Salmonella spp.","Ertapenem",0,0,0,0.377833753148615,16.4835164835165
+2018,"STOOL","Salmonella spp.","Ertapenem",0,0,0.204081632653061,0.859616573902288,3.15789473684211
+2019,"STOOL","Salmonella spp.","Ertapenem",0,0.103950103950104,0.446563692387081,0.651246635860458,2.18978102189781
+2020,"STOOL","Salmonella spp.","Ertapenem",0,0,0,0.417439703153989,0.763358778625954
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"STOOL","Salmonella spp.","Ertapenem",653,265,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Ertapenem",818,230,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Ertapenem",1005,419,2,0.477326968973747
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Ertapenem",1068,393,3,0.763358778625954
+"CHE","Switzerland","European Region",2017,"STOOL","Salmonella spp.","Ertapenem",591,70,0,0
+"CHE","Switzerland","European Region",2018,"STOOL","Salmonella spp.","Ertapenem",592,200,0,0
+"CHE","Switzerland","European Region",2019,"STOOL","Salmonella spp.","Ertapenem",640,183,0,0
+"CHE","Switzerland","European Region",2020,"STOOL","Salmonella spp.","Ertapenem",482,150,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"STOOL","Salmonella spp.","Ertapenem",1922,88,0,0
+"MYS","Malaysia","Western Pacific Region",2018,"STOOL","Salmonella spp.","Ertapenem",1999,99,1,1.01010101010101
+"MYS","Malaysia","Western Pacific Region",2019,"STOOL","Salmonella spp.","Ertapenem",2165,141,1,0.709219858156028
+"MYS","Malaysia","Western Pacific Region",2020,"STOOL","Salmonella spp.","Ertapenem",2083,93,0,0
+"POL","Poland","European Region",2017,"STOOL","Salmonella spp.","Ertapenem",531,81,0,0
+"POL","Poland","European Region",2018,"STOOL","Salmonella spp.","Ertapenem",539,114,0,0
+"POL","Poland","European Region",2019,"STOOL","Salmonella spp.","Ertapenem",232,37,0,0
+"POL","Poland","European Region",2020,"STOOL","Salmonella spp.","Ertapenem",156,29,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"STOOL","Salmonella spp.","Ertapenem",225,91,15,16.4835164835165
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Ertapenem",166,95,3,3.15789473684211
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Ertapenem",235,137,3,2.18978102189781
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Ertapenem",103,84,0,0
+"ZAF","South Africa","African Region",2017,"STOOL","Salmonella spp.","Ertapenem",1338,397,2,0.503778337531486
+"ZAF","South Africa","African Region",2018,"STOOL","Salmonella spp.","Ertapenem",1481,490,2,0.408163265306122
+"ZAF","South Africa","African Region",2019,"STOOL","Salmonella spp.","Ertapenem",1225,481,2,0.415800415800416
+"ZAF","South Africa","African Region",2020,"STOOL","Salmonella spp.","Ertapenem",1138,539,3,0.556586270871985

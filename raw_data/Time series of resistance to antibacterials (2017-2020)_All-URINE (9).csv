@@ -1,0 +1,60 @@
+Filters
+Region filter: All
+Infection syndrome filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Ertapenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"URINE","Escherichia coli","Ertapenem",0.0137211855104281,0.415870486358857,0.818289185085203,2.21378807400306,28.4598214285714
+2018,"URINE","Escherichia coli","Ertapenem",0.0553978256353438,0.298774289251457,1.64383561643836,3.91643787844511,33.5112324686608
+2019,"URINE","Escherichia coli","Ertapenem",0.0551392619821858,0.243086832466798,0.895080946450809,2.07233881698547,21.1773255813953
+2020,"URINE","Escherichia coli","Ertapenem",0.0798605103086609,0.252699622324309,1.24215887211974,5.75195510613847,34.6938775510204
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ertapenem",13558,4476,35,0.781948168007149
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ertapenem",22331,8035,135,1.68014934660859
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ertapenem",27055,12848,115,0.895080946450809
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ertapenem",29681,16101,200,1.24215887211974
+"CHE","Switzerland","European Region",2017,"URINE","Escherichia coli","Ertapenem",97650,7288,1,0.0137211855104281
+"CHE","Switzerland","European Region",2018,"URINE","Escherichia coli","Ertapenem",118114,72205,40,0.0553978256353438
+"CHE","Switzerland","European Region",2019,"URINE","Escherichia coli","Ertapenem",139721,70730,39,0.0551392619821858
+"CHE","Switzerland","European Region",2020,"URINE","Escherichia coli","Ertapenem",153286,75131,60,0.0798605103086609
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2017,"URINE","Escherichia coli","Ertapenem",810851,328193,490,0.149302392189961
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Escherichia coli","Ertapenem",863293,351561,455,0.12942277442606
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Escherichia coli","Ertapenem",880701,439827,630,0.143238136812883
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Escherichia coli","Ertapenem",651538,339155,557,0.164231693473486
+"IND","India","South-East Asia Region",2017,"URINE","Escherichia coli","Ertapenem",10034,2688,765,28.4598214285714
+"IND","India","South-East Asia Region",2018,"URINE","Escherichia coli","Ertapenem",25203,8057,2700,33.5112324686608
+"IND","India","South-East Asia Region",2019,"URINE","Escherichia coli","Ertapenem",47746,13760,2914,21.1773255813953
+"IND","India","South-East Asia Region",2020,"URINE","Escherichia coli","Ertapenem",18235,6439,1491,23.15576952943
+"KOR","Republic of Korea","Western Pacific Region",2017,"URINE","Escherichia coli","Ertapenem",9130,7874,4,0.0508001016002032
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Escherichia coli","Ertapenem",8554,7255,15,0.206753962784287
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Escherichia coli","Ertapenem",8565,7270,7,0.0962861072902338
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Escherichia coli","Ertapenem",8567,7293,11,0.150829562594268
+"MYS","Malaysia","Western Pacific Region",2017,"URINE","Escherichia coli","Ertapenem",19286,11854,97,0.818289185085203
+"MYS","Malaysia","Western Pacific Region",2018,"URINE","Escherichia coli","Ertapenem",19914,11118,87,0.782514840798705
+"MYS","Malaysia","Western Pacific Region",2019,"URINE","Escherichia coli","Ertapenem",19312,11418,97,0.849535820634087
+"MYS","Malaysia","Western Pacific Region",2020,"URINE","Escherichia coli","Ertapenem",18124,10983,66,0.600928708003278
+"OMN","Oman","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ertapenem",4377,541,9,1.66358595194085
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ertapenem",3636,365,6,1.64383561643836
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ertapenem",8941,1580,21,1.32911392405063
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ertapenem",3343,98,34,34.6938775510204
+"PHL","Philippines","Western Pacific Region",2017,"URINE","Escherichia coli","Ertapenem",6689,2458,67,2.72579332790887
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Ertapenem",8074,3823,145,3.79283285377975
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Ertapenem",9132,5348,238,4.45026178010471
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Ertapenem",4560,2665,196,7.35459662288931
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ertapenem",3860,1171,112,9.56447480785653
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ertapenem",5627,2797,113,4.04004290311047
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ertapenem",5587,2653,41,1.54542027892951
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ertapenem",4464,2632,44,1.67173252279635
+"THA","Thailand","South-East Asia Region",2017,"URINE","Escherichia coli","Ertapenem",2250,1234,21,1.70178282009724
+"THA","Thailand","South-East Asia Region",2018,"URINE","Escherichia coli","Ertapenem",4301,1980,100,5.05050505050505
+"THA","Thailand","South-East Asia Region",2019,"URINE","Escherichia coli","Ertapenem",9011,3501,91,2.59925735504142
+"THA","Thailand","South-East Asia Region",2020,"URINE","Escherichia coli","Ertapenem",11131,6483,269,4.14931358938763
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ertapenem",3523,2198,15,0.682438580527753
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ertapenem",12711,9212,36,0.390794615718628
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ertapenem",5444,4374,15,0.342935528120713
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ertapenem",5309,2638,9,0.341167551175133

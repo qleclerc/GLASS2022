@@ -1,0 +1,168 @@
+Filters
+Region filter: All
+Infection syndrome filter: 
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Third-generation cephalosporins
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",5.86502410283878,12.0582206638831,20.1957063835225,48.8207547169811,100
+2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",6.75431812322764,12.5955746061168,20.1215669511567,47.4267940178459,87.2727272727273
+2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",5.52380952380952,13.2384792841614,19.9550224887556,49.018771331058,88.8741721854305
+2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",5.3301747112822,10.8332142027483,23.9609457426017,51.4215418261345,86.8131868131868
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",1982,136,71,52.2058823529412
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",2452,584,280,47.945205479452
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",2464,293,135,46.0750853242321
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",2925,392,212,54.0816326530612
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",6657,1358,281,20.6921944035346
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",7385,1471,296,20.1223657375935
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",5783,1212,230,18.976897689769
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",7376,1254,266,21.2121212121212
+"AUT","Austria","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",10210,5129,494,9.63150711639696
+"AUT","Austria","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",10829,5672,579,10.2080394922426
+"AUT","Austria","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",10215,5748,521,9.06402226861517
+"AUT","Austria","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",8660,4933,465,9.42631258868843
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",634,170,43,25.2941176470588
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",841,248,48,19.3548387096774
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",1020,290,59,20.3448275862069
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",954,179,42,23.463687150838
+"CHE","Switzerland","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",9259,671,64,9.53800298062593
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",19539,11775,1200,10.1910828025478
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",10424,6030,619,10.2653399668325
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",10256,523,58,11.0898661567878
+"CYP","Cyprus","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",413,156,48,30.7692307692308
+"CYP","Cyprus","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",428,151,56,37.0860927152318
+"CYP","Cyprus","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",250,92,18,19.5652173913043
+"CYP","Cyprus","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",739,62,32,51.6129032258064
+"CZE","Czechia","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",6893,3199,455,14.2231947483589
+"CZE","Czechia","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",7835,3641,554,15.2156001098599
+"CZE","Czechia","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",7711,3554,546,15.3629712999437
+"CZE","Czechia","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",6846,2995,392,13.0884808013356
+"DEU","Germany","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",39144,21070,2588,12.2828666350261
+"DEU","Germany","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",39366,21517,2621,12.1810661337547
+"DEU","Germany","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",41630,16172,1853,11.4580756863715
+"DEU","Germany","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",48396,19955,2035,10.1979453770985
+"FIN","Finland","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",22539,5141,337,6.55514491344096
+"FIN","Finland","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",8600,5020,381,7.58964143426295
+"FIN","Finland","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",9354,244,19,7.78688524590164
+"FIN","Finland","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",8809,6068,402,6.62491760052736
+"FRA","France","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",23811,13352,1365,10.2231875374476
+"FRA","France","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",24089,12614,1210,9.59251625178373
+"FRA","France","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",24352,4739,430,9.07364422874024
+"FRA","France","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",33689,5718,596,10.4232249038125
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",49161,27925,2864,10.2560429722471
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",50898,28676,3145,10.9673594643604
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",39230,16845,1898,11.2674384090234
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",40326,14362,1500,10.4442278234229
+"GEO","Georgia","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",105,10,5,50
+"GEO","Georgia","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",216,50,27,54
+"GEO","Georgia","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",433,76,43,56.578947368421
+"GEO","Georgia","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",741,126,55,43.6507936507937
+"GRC","Greece","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",4750,1470,269,18.2993197278912
+"GRC","Greece","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",5044,1640,317,19.3292682926829
+"GRC","Greece","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",5814,1077,234,21.7270194986072
+"GRC","Greece","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",2415,323,79,24.4582043343653
+"HRV","Croatia","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",2326,1148,189,16.4634146341463
+"HRV","Croatia","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",2296,1168,173,14.8116438356164
+"HRV","Croatia","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",2093,1078,168,15.5844155844156
+"HRV","Croatia","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",1800,159,29,18.2389937106918
+"IND","India","South-East Asia Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",8532,88,70,79.5454545454545
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",14459,55,48,87.2727272727273
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",24223,3883,3138,80.8138037599794
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",12371,91,79,86.8131868131868
+"IRL","Ireland","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",5221,3121,374,11.9833386735021
+"IRL","Ireland","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",5425,3237,417,12.8822984244671
+"IRL","Ireland","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",5053,1237,155,12.5303152789006
+"IRL","Ireland","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",3278,1823,194,10.6417992320351
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",30,10,9,90
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",1826,195,129,66.1538461538461
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",2277,401,282,70.3241895261845
+"IRN","Iran (Islamic Republic of)","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",1854,325,225,69.2307692307692
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",168145,70749,13937,19.6992183635104
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",126859,50510,10163,20.1207681647199
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",136246,53211,11147,20.9486760256338
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",142185,57677,11914,20.6564141685594
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",3518,1772,574,32.392776523702
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",3519,1724,666,38.631090487239
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",3646,1939,719,37.0809695719443
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",4095,2209,832,37.6641014033499
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",209,106,48,45.2830188679245
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",275,109,50,45.8715596330275
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",314,100,50,50
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",422,177,90,50.8474576271186
+"LBN","Lebanon","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",188,17,10,58.8235294117647
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",330,164,85,51.8292682926829
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",218,24,14,58.3333333333333
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",565,117,66,56.4102564102564
+"LTU","Lithuania","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",1888,852,143,16.7840375586854
+"LTU","Lithuania","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",2352,1109,170,15.3291253381425
+"LTU","Lithuania","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",2452,308,54,17.5324675324675
+"LTU","Lithuania","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",2507,832,136,16.3461538461538
+"LUX","Luxembourg","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",785,433,42,9.69976905311778
+"LUX","Luxembourg","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",746,424,53,12.5
+"LUX","Luxembourg","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",852,147,23,15.6462585034014
+"LUX","Luxembourg","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",742,428,46,10.7476635514019
+"LVA","Latvia","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",348,111,20,18.018018018018
+"LVA","Latvia","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",987,348,71,20.4022988505747
+"LVA","Latvia","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",1712,624,115,18.4294871794872
+"LVA","Latvia","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",980,39,13,33.3333333333333
+"MKD","North Macedonia","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",175,10,9,90
+"MKD","North Macedonia","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",176,23,19,82.6086956521739
+"MKD","North Macedonia","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",276,28,18,64.2857142857143
+"MKD","North Macedonia","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",293,21,18,85.7142857142857
+"MLT","Malta","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",574,321,50,15.5763239875389
+"MLT","Malta","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",1116,352,60,17.0454545454545
+"MLT","Malta","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",624,358,65,18.1564245810056
+"MLT","Malta","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",530,277,33,11.913357400722
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",25686,5939,1615,27.193130156592
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",26268,5736,1565,27.2838214783821
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",25194,6293,1707,27.1253774034642
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",20249,4766,1229,25.7868233319345
+"NLD","Netherlands","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",12092,6684,412,6.163973668462
+"NLD","Netherlands","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",12993,7011,511,7.28854656967622
+"NLD","Netherlands","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",12741,6734,486,7.21710721710722
+"NLD","Netherlands","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",12566,6793,445,6.55086118062712
+"NOR","Norway","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",6549,3734,219,5.86502410283878
+"NOR","Norway","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",6696,3879,262,6.75431812322764
+"NOR","Norway","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",6599,3675,203,5.52380952380952
+"NOR","Norway","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",5774,3377,180,5.3301747112822
+"OMN","Oman","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",1043,67,36,53.7313432835821
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",631,178,96,53.9325842696629
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",1007,203,111,54.679802955665
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",876,128,101,78.90625
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",2323,15,15,100
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",7410,156,133,85.2564102564102
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",8980,755,671,88.8741721854305
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",5623,463,381,82.2894168466523
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",5103,464,201,43.3189655172414
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",5595,602,245,40.6976744186046
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",6468,1350,539,39.9259259259259
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",4276,452,161,35.6194690265487
+"POL","Poland","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",6587,2866,478,16.6782972784368
+"POL","Poland","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",6477,2620,461,17.5954198473282
+"POL","Poland","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",6404,677,122,18.0206794682422
+"POL","Poland","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",4975,1713,300,17.5131348511384
+"RUS","Russian Federation","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",321,52,38,73.0769230769231
+"RUS","Russian Federation","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",427,81,54,66.6666666666667
+"RUS","Russian Federation","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",1173,115,67,58.2608695652174
+"RUS","Russian Federation","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",1305,41,30,73.1707317073171
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",1491,103,68,66.0194174757282
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",2420,480,262,54.5833333333333
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",2528,496,284,57.258064516129
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",2458,405,236,58.2716049382716
+"SWE","Sweden","European Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",11416,5790,426,7.35751295336788
+"SWE","Sweden","European Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",10849,5390,449,8.33024118738405
+"SWE","Sweden","European Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",18598,9417,718,7.62450886694276
+"SWE","Sweden","European Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",38574,19704,1514,7.68371904181892
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",1349,603,246,40.7960199004975
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",2629,994,366,36.8209255533199
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",5463,2010,749,37.2636815920398
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",6159,2089,823,39.3968405935854
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Third-generation cephalosporins",835,78,28,35.8974358974359
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Third-generation cephalosporins",1660,250,85,34
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Third-generation cephalosporins",932,108,39,36.1111111111111
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Third-generation cephalosporins",917,74,23,31.0810810810811

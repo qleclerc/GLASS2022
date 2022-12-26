@@ -1,0 +1,28 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Levofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"STOOL","Salmonella spp.","Levofloxacin",6.89655172413793,7.19827586206897,7.5,9.70238095238095,11.9047619047619
+2018,"STOOL","Salmonella spp.","Levofloxacin",3.44827586206897,7.203589985829,10.958904109589,11.2486828240253,11.5384615384615
+2019,"STOOL","Salmonella spp.","Levofloxacin",3.125,3.72077338129496,4.31654676258993,4.72237594539753,5.12820512820513
+2020,"STOOL","Salmonella spp.","Levofloxacin",3.75,4.34413580246914,4.93827160493827,5.89379333671571,6.84931506849315
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"STOOL","Salmonella spp.","Levofloxacin",653,40,3,7.5
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Levofloxacin",818,73,8,10.958904109589
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Levofloxacin",1005,139,6,4.31654676258993
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Levofloxacin",1068,146,10,6.84931506849315
+"CHE","Switzerland","European Region",2017,"STOOL","Salmonella spp.","Levofloxacin",591,42,5,11.9047619047619
+"CHE","Switzerland","European Region",2018,"STOOL","Salmonella spp.","Levofloxacin",592,130,15,11.5384615384615
+"CHE","Switzerland","European Region",2019,"STOOL","Salmonella spp.","Levofloxacin",640,78,4,5.12820512820513
+"CHE","Switzerland","European Region",2020,"STOOL","Salmonella spp.","Levofloxacin",482,81,4,4.93827160493827
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"STOOL","Salmonella spp.","Levofloxacin",225,87,6,6.89655172413793
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Levofloxacin",166,116,4,3.44827586206897
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Levofloxacin",235,128,4,3.125
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Levofloxacin",103,80,3,3.75

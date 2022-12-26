@@ -1,0 +1,64 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Cefepime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Escherichia coli","Cefepime",6.23052959501558,17.4078069380574,22.5838027841147,41.5948527978163,68.8888888888889
+2018,"BLOOD","Escherichia coli","Cefepime",7.67045454545455,16.9455043894924,22.5483505808492,49.5089285714286,78.494623655914
+2019,"BLOOD","Escherichia coli","Cefepime",13.1342150910668,15.7932041957551,20.6757371002002,52.6830292265461,89.5348837209302
+2020,"BLOOD","Escherichia coli","Cefepime",8.30324909747292,16.6554890483789,20.4885864788622,59.0618839635205,83.0769230769231
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Cefepime",1982,457,98,21.4442013129103
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefepime",2452,607,113,18.6161449752883
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefepime",2464,512,76,14.84375
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefepime",2925,580,101,17.4137931034483
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Escherichia coli","Cefepime",6657,1649,293,17.7683444511825
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Cefepime",7385,1991,332,16.6750376695128
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Cefepime",5783,1663,272,16.3559831629585
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Cefepime",7376,1847,341,18.4623714131023
+"IND","India","South-East Asia Region",2017,"BLOOD","Escherichia coli","Cefepime",8532,487,288,59.1375770020534
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Cefepime",14459,387,250,64.5994832041344
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Cefepime",24223,1066,669,62.7579737335835
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Cefepime",12371,529,356,67.296786389414
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Escherichia coli","Cefepime",168145,84134,9745,11.5827132907029
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Escherichia coli","Cefepime",126859,66734,7899,11.8365450894596
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Escherichia coli","Cefepime",136246,73792,9692,13.1342150910668
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Escherichia coli","Cefepime",142185,80407,9986,12.4193167261557
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Escherichia coli","Cefepime",3518,1772,360,20.3160270880361
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Cefepime",3519,1724,427,24.7679814385151
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Cefepime",3646,1939,391,20.1650335224342
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Cefepime",4095,2209,478,21.6387505658669
+"MLT","Malta","European Region",2017,"BLOOD","Escherichia coli","Cefepime",574,321,20,6.23052959501558
+"MLT","Malta","European Region",2018,"BLOOD","Escherichia coli","Cefepime",1116,352,27,7.67045454545455
+"MLT","Malta","European Region",2019,"BLOOD","Escherichia coli","Cefepime",624,358,54,15.0837988826816
+"MLT","Malta","European Region",2020,"BLOOD","Escherichia coli","Cefepime",530,277,23,8.30324909747292
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Escherichia coli","Cefepime",25686,6070,991,16.326194398682
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Escherichia coli","Cefepime",26268,5917,1008,17.035659962819
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Escherichia coli","Cefepime",25194,6201,994,16.0296726334462
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Escherichia coli","Cefepime",20249,4819,693,14.3805768831708
+"OMN","Oman","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Cefepime",1043,223,117,52.4663677130045
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefepime",631,120,66,55
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefepime",1007,275,144,52.3636363636364
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefepime",876,65,54,83.0769230769231
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Cefepime",2323,45,31,68.8888888888889
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefepime",7410,93,73,78.494623655914
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefepime",8980,86,77,89.5348837209302
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefepime",5623,149,120,80.5369127516778
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Escherichia coli","Cefepime",5103,940,223,23.7234042553191
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Cefepime",5595,1156,235,20.3287197231834
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Cefepime",6468,1353,345,25.4988913525499
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Cefepime",4276,786,152,19.3384223918575
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Cefepime",1491,345,131,37.9710144927536
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefepime",2420,560,267,47.6785714285714
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefepime",2528,563,302,53.6412078152753
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefepime",2458,467,263,56.3169164882227
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Cefepime",835,73,23,31.5068493150685
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Cefepime",1660,211,59,27.9620853080569
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Cefepime",932,118,25,21.1864406779661
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Cefepime",917,80,23,28.75

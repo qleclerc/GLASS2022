@@ -1,0 +1,88 @@
+Filters
+Region filter: All
+Infection syndrome filter: Urinary tract
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Imipenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"URINE","Klebsiella pneumoniae","Imipenem",0,1.54376174976851,12.1360281784636,16.7787564421539,96.4285714285714
+2018,"URINE","Klebsiella pneumoniae","Imipenem",0.110957004160888,1.36083391823593,10.5934253622709,15.5520770620108,93.5483870967742
+2019,"URINE","Klebsiella pneumoniae","Imipenem",0.103640367923306,1.72368197685972,11.0604428942194,15.9232102213946,33.1967737805659
+2020,"URINE","Klebsiella pneumoniae","Imipenem",0.0718599284164559,2.62843809810542,9.51426024955437,21.4533459791287,62.5
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",13558,2615,136,5.20076481835564
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",22331,4050,218,5.38271604938272
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",27055,4737,170,3.58876926324678
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",29681,5694,183,3.21390937829294
+"ARG","Argentina","Region of the Americas",2017,"URINE","Klebsiella pneumoniae","Imipenem",39782,3190,377,11.8181818181818
+"ARG","Argentina","Region of the Americas",2018,"URINE","Klebsiella pneumoniae","Imipenem",44553,3808,417,10.9506302521008
+"ARG","Argentina","Region of the Americas",2019,"URINE","Klebsiella pneumoniae","Imipenem",35830,3537,385,10.884930732259
+"ARG","Argentina","Region of the Americas",2020,"URINE","Klebsiella pneumoniae","Imipenem",29170,3174,430,13.5475740390674
+"BGD","Bangladesh","South-East Asia Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",209,33,5,15.1515151515152
+"BGD","Bangladesh","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",412,78,11,14.1025641025641
+"BGD","Bangladesh","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",488,89,10,11.2359550561798
+"BGD","Bangladesh","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",261,33,2,6.06060606060606
+"BHR","Bahrain","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",477,28,27,96.4285714285714
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",3706,31,29,93.5483870967742
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",4535,229,67,29.2576419213974
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",3517,195,69,35.3846153846154
+"CHE","Switzerland","European Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",97650,1185,0,0
+"CHE","Switzerland","European Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",118114,10815,12,0.110957004160888
+"CHE","Switzerland","European Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",139721,12742,16,0.125568984460838
+"CHE","Switzerland","European Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",153286,13315,17,0.127675553886594
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",810851,3697,28,0.757370841222613
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",863293,4987,35,0.701824744335272
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",880701,4240,43,1.01415094339623
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",651538,4781,23,0.48107090566827
+"IND","India","South-East Asia Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",10034,599,284,47.4123539232053
+"IND","India","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",25203,1699,677,39.8469688051795
+"IND","India","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",47746,7811,2593,33.1967737805659
+"IND","India","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",18235,3384,1164,34.3971631205674
+"JPN","Japan","Western Pacific Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",452366,68112,84,0.123326286116984
+"JPN","Japan","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",423516,64930,77,0.118589249961497
+"JPN","Japan","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",453889,69471,72,0.103640367923306
+"JPN","Japan","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",475584,72363,52,0.0718599284164559
+"KOR","Republic of Korea","Western Pacific Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",9130,1256,17,1.35350318471338
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",8554,1299,8,0.615858352578907
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",8565,1295,16,1.23552123552124
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",8567,1274,31,2.43328100470958
+"MYS","Malaysia","Western Pacific Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",19286,4863,181,3.72198231544314
+"MYS","Malaysia","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",19914,5153,172,3.3378614399379
+"MYS","Malaysia","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",19312,4799,153,3.18816420087518
+"MYS","Malaysia","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",18124,4899,197,4.02122882220861
+"NPL","Nepal","South-East Asia Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",295,44,8,18.1818181818182
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",4866,164,53,32.3170731707317
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",9953,411,116,28.2238442822384
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",5975,332,82,24.6987951807229
+"OMN","Oman","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",4377,555,76,13.6936936936937
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",3636,350,56,16
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",8941,1011,151,14.9357072205737
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",3343,120,75,62.5
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",8946,948,167,17.6160337552743
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",14284,254,26,10.2362204724409
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",15455,2029,229,11.2863479546575
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",28695,748,97,12.9679144385027
+"PHL","Philippines","Western Pacific Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",6689,1632,278,17.0343137254902
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",8074,1661,236,14.2083082480433
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",9132,2160,338,15.6481481481481
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",4560,1434,300,20.9205020920502
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",3860,1084,135,12.4538745387454
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",5627,1513,283,18.7045604758757
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",5587,1509,310,20.5434062292909
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",4464,1447,313,21.6309606081548
+"SWE","Sweden","European Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",140606,2132,0,0
+"SWE","Sweden","European Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",115520,1431,4,0.279524807826695
+"SWE","Sweden","European Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",229294,3119,10,0.320615581917281
+"SWE","Sweden","European Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",441656,5666,14,0.247087892693258
+"THA","Thailand","South-East Asia Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",2250,331,53,16.012084592145
+"THA","Thailand","South-East Asia Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",4301,691,82,11.8668596237337
+"THA","Thailand","South-East Asia Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",9011,1611,258,16.0148975791434
+"THA","Thailand","South-East Asia Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",11131,2424,400,16.5016501650165
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"URINE","Klebsiella pneumoniae","Imipenem",3523,1135,24,2.11453744493392
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Klebsiella pneumoniae","Imipenem",12711,1944,70,3.60082304526749
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Klebsiella pneumoniae","Imipenem",5444,630,67,10.6349206349206
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Klebsiella pneumoniae","Imipenem",5309,684,32,4.67836257309941

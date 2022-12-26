@@ -1,0 +1,80 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Ampicillin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Escherichia coli","Ampicillin",41.9944828204898,71.9928339517819,79.2104777716289,82.6644029704905,97.1896955503513
+2018,"BLOOD","Escherichia coli","Ampicillin",41.986400816526,69.7703583932437,79.6436083660753,84.5718080950148,96.2264150943396
+2019,"BLOOD","Escherichia coli","Ampicillin",42.3628287986383,70.4117390763102,76.5661799340556,81.979157779622,97.6878612716763
+2020,"BLOOD","Escherichia coli","Ampicillin",41.0546023378127,68.4020602767613,73.8848614072495,80.3411383891037,94.5701357466063
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Ampicillin",1982,623,477,76.5650080256822
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ampicillin",2452,787,600,76.2388818297332
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ampicillin",2464,721,529,73.370319001387
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ampicillin",2925,750,548,73.0666666666667
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Escherichia coli","Ampicillin",6657,1731,1256,72.5592143269786
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Ampicillin",7385,2057,1508,73.3106465726787
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Ampicillin",5783,1518,1150,75.7575757575758
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Ampicillin",7376,1740,1259,72.3563218390805
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Escherichia coli","Ampicillin",634,157,115,73.2484076433121
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Escherichia coli","Ampicillin",841,248,172,69.3548387096774
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Escherichia coli","Ampicillin",1020,290,207,71.3793103448276
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Escherichia coli","Ampicillin",954,179,119,66.4804469273743
+"CHE","Switzerland","European Region",2017,"BLOOD","Escherichia coli","Ampicillin",9259,3930,1944,49.4656488549618
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Ampicillin",19539,7928,3860,48.6881937436932
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Ampicillin",10424,4152,2026,48.7957610789981
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Ampicillin",10256,4156,1920,46.1982675649663
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Escherichia coli","Ampicillin",168145,89176,37449,41.9944828204898
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ampicillin",126859,69563,29207,41.986400816526
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ampicillin",136246,75198,31856,42.3628287986383
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ampicillin",142185,81187,33331,41.0546023378127
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Escherichia coli","Ampicillin",3518,1772,1157,65.293453724605
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ampicillin",3519,1724,1173,68.0394431554524
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ampicillin",3646,1939,1309,67.5090252707581
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ampicillin",4095,2209,1449,65.5952919873246
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2017,"BLOOD","Escherichia coli","Ampicillin",209,106,90,84.9056603773585
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ampicillin",275,110,100,90.9090909090909
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ampicillin",314,82,75,91.4634146341463
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ampicillin",422,179,162,90.5027932960894
+"MKD","North Macedonia","European Region",2017,"BLOOD","Escherichia coli","Ampicillin",175,34,28,82.3529411764706
+"MKD","North Macedonia","European Region",2018,"BLOOD","Escherichia coli","Ampicillin",176,53,51,96.2264150943396
+"MKD","North Macedonia","European Region",2019,"BLOOD","Escherichia coli","Ampicillin",276,64,56,87.5
+"MKD","North Macedonia","European Region",2020,"BLOOD","Escherichia coli","Ampicillin",293,45,42,93.3333333333333
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Escherichia coli","Ampicillin",25686,6231,4380,70.2936928261916
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ampicillin",26268,6035,4219,69.9088649544325
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ampicillin",25194,6251,4469,71.4925611902096
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ampicillin",20249,4742,3274,69.0425980598903
+"OMN","Oman","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Ampicillin",1043,278,223,80.2158273381295
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ampicillin",631,196,162,82.6530612244898
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ampicillin",1007,476,385,80.8823529411765
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ampicillin",876,175,128,73.1428571428571
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Ampicillin",2323,427,415,97.1896955503513
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ampicillin",7410,786,755,96.0559796437659
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ampicillin",8980,692,676,97.6878612716763
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ampicillin",5623,221,209,94.5701357466063
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Escherichia coli","Ampicillin",5103,952,790,82.9831932773109
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Ampicillin",5595,1135,904,79.647577092511
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Ampicillin",6468,1356,1113,82.0796460176991
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Ampicillin",4276,783,622,79.4380587484036
+"RUS","Russian Federation","European Region",2017,"BLOOD","Escherichia coli","Ampicillin",321,52,45,86.5384615384615
+"RUS","Russian Federation","European Region",2018,"BLOOD","Escherichia coli","Ampicillin",427,81,71,87.6543209876543
+"RUS","Russian Federation","European Region",2019,"BLOOD","Escherichia coli","Ampicillin",1173,121,79,65.2892561983471
+"RUS","Russian Federation","European Region",2020,"BLOOD","Escherichia coli","Ampicillin",1305,76,61,80.2631578947368
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Ampicillin",1491,344,284,82.5581395348837
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ampicillin",2420,555,442,79.6396396396396
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ampicillin",2528,579,448,77.3747841105354
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ampicillin",2458,468,370,79.0598290598291
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Escherichia coli","Ampicillin",1349,394,320,81.2182741116751
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Ampicillin",2629,632,528,83.5443037974684
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Ampicillin",5463,1141,935,81.9456617002629
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Ampicillin",6159,1565,1261,80.5750798722045
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Ampicillin",835,78,61,78.2051282051282
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Ampicillin",1660,205,166,80.9756097560976
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Ampicillin",932,109,86,78.8990825688073
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Ampicillin",917,67,50,74.6268656716418

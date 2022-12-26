@@ -1,0 +1,60 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Streptococcus pneumoniae
+Antibiotic filter: Penicillin G
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",0.0413736036408771,7.26120857699805,15.742397137746,27.2767907028718,42.8571428571429
+2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",0.122624156958921,6.38888888888889,14.6341463414634,28.9618086040386,49.3333333333333
+2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",0.185242358752701,4.65991692627207,13.7065637065637,27.7666932694866,37.9746835443038
+2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",0,4.2890757767223,13.5135135135135,24.4290865384615,39.6551724137931
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",1982,66,20,30.3030303030303
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",2452,67,26,38.8059701492537
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",2464,98,36,36.734693877551
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",2925,52,12,23.0769230769231
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",6657,259,68,26.2548262548263
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",7385,408,78,19.1176470588235
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",5783,358,88,24.5810055865922
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",7376,128,33,25.78125
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",634,19,5,26.3157894736842
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",841,30,14,46.6666666666667
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",1020,42,13,30.952380952381
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",954,20,6,30
+"CHE","Switzerland","European Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",9259,645,14,2.17054263565891
+"CHE","Switzerland","European Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",19539,1395,24,1.72043010752688
+"CHE","Switzerland","European Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",10424,657,8,1.21765601217656
+"CHE","Switzerland","European Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",10256,433,11,2.54041570438799
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",168145,4834,2,0.0413736036408771
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",126859,3262,4,0.122624156958921
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",136246,3239,6,0.185242358752701
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",142185,1650,5,0.303030303030303
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",3518,54,5,9.25925925925926
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",3519,48,4,8.33333333333333
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",3646,36,1,2.77777777777778
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",4095,28,3,10.7142857142857
+"MLT","Malta","European Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",574,19,1,5.26315789473684
+"MLT","Malta","European Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",1116,36,4,11.1111111111111
+"MLT","Malta","European Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",624,27,2,7.40740740740741
+"MLT","Malta","European Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",530,16,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",25686,559,88,15.742397137746
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",26268,412,67,16.2621359223301
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",25194,518,71,13.7065637065637
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",20249,182,36,19.7802197802198
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",5103,117,14,11.965811965812
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",5595,123,18,14.6341463414634
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",6468,130,18,13.8461538461538
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",4276,37,5,13.5135135135135
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",1349,35,15,42.8571428571429
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",2629,75,37,49.3333333333333
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",5463,158,60,37.9746835443038
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",6159,116,46,39.6551724137931
+"ZAF","South Africa","African Region",2017,"BLOOD","Streptococcus pneumoniae","Penicillin G",2931,471,133,28.2377919320594
+"ZAF","South Africa","African Region",2018,"BLOOD","Streptococcus pneumoniae","Penicillin G",20691,405,18,4.44444444444444
+"ZAF","South Africa","African Region",2019,"BLOOD","Streptococcus pneumoniae","Penicillin G",20489,428,28,6.54205607476635
+"ZAF","South Africa","African Region",2020,"BLOOD","Streptococcus pneumoniae","Penicillin G",23840,265,16,6.0377358490566

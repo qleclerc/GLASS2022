@@ -1,0 +1,48 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gastrointestinal
+Bacterial pathogen filter: Shigella spp.
+Antibiotic filter: Ciprofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"STOOL","Shigella spp.","Ciprofloxacin",0,0.0919869174161897,16.8965517241379,28.5518292682927,33.3333333333333
+2018,"STOOL","Shigella spp.","Ciprofloxacin",0,0.242112444263148,18.9102564102564,30.3921568627451,40.6976744186046
+2019,"STOOL","Shigella spp.","Ciprofloxacin",0,0.21551724137931,16.8327796234773,27.938337497161,36
+2020,"STOOL","Shigella spp.","Ciprofloxacin",0.404858299595142,7.61983223487118,22.7124183006536,33.7837837837838,36.1111111111111
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"STOOL","Shigella spp.","Ciprofloxacin",653,58,8,13.7931034482759
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",818,86,35,40.6976744186046
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",1005,50,18,36
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",1068,34,6,17.6470588235294
+"ARG","Argentina","Region of the Americas",2017,"STOOL","Shigella spp.","Ciprofloxacin",3022,2446,3,0.122649223221586
+"ARG","Argentina","Region of the Americas",2018,"STOOL","Shigella spp.","Ciprofloxacin",3376,2810,5,0.177935943060498
+"ARG","Argentina","Region of the Americas",2019,"STOOL","Shigella spp.","Ciprofloxacin",2892,2436,7,0.28735632183908
+"ARG","Argentina","Region of the Americas",2020,"STOOL","Shigella spp.","Ciprofloxacin",2201,1669,8,0.479328939484721
+"CHE","Switzerland","European Region",2017,"STOOL","Shigella spp.","Ciprofloxacin",591,30,10,33.3333333333333
+"CHE","Switzerland","European Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",592,144,48,33.3333333333333
+"CHE","Switzerland","European Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",640,129,25,19.3798449612403
+"CHE","Switzerland","European Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",482,36,13,36.1111111111111
+"JPN","Japan","Western Pacific Region",2017,"STOOL","Shigella spp.","Ciprofloxacin",418,82,26,31.7073170731707
+"JPN","Japan","Western Pacific Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",317,156,33,21.1538461538462
+"JPN","Japan","Western Pacific Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",306,91,13,14.2857142857143
+"JPN","Japan","Western Pacific Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",241,74,26,35.1351351351351
+"OMN","Oman","Eastern Mediterranean Region",2017,"STOOL","Shigella spp.","Ciprofloxacin",334,25,5,20
+"OMN","Oman","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",272,42,7,16.6666666666667
+"OMN","Oman","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",119,119,32,26.890756302521
+"OMN","Oman","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",228,12,4,33.3333333333333
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"STOOL","Shigella spp.","Ciprofloxacin",51,40,11,27.5
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",120,68,20,29.4117647058824
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",209,74,23,31.0810810810811
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",117,18,5,27.7777777777778
+"PHL","Philippines","Western Pacific Region",2017,"STOOL","Shigella spp.","Ciprofloxacin",62,20,0,0
+"PHL","Philippines","Western Pacific Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",67,20,0,0
+"PHL","Philippines","Western Pacific Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",77,31,0,0
+"PHL","Philippines","Western Pacific Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",43,10,1,10
+"ZAF","South Africa","African Region",2017,"STOOL","Shigella spp.","Ciprofloxacin",1338,650,0,0
+"ZAF","South Africa","African Region",2018,"STOOL","Shigella spp.","Ciprofloxacin",1481,759,2,0.263504611330698
+"ZAF","South Africa","African Region",2019,"STOOL","Shigella spp.","Ciprofloxacin",1225,649,0,0
+"ZAF","South Africa","African Region",2020,"STOOL","Shigella spp.","Ciprofloxacin",1138,494,2,0.404858299595142

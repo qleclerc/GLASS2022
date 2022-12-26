@@ -1,0 +1,52 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Meropenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Salmonella spp.","Meropenem",0,0,0,0,0
+2018,"BLOOD","Salmonella spp.","Meropenem",0,0,0,0.689655172413793,2.38095238095238
+2019,"BLOOD","Salmonella spp.","Meropenem",0,0,0,0,0.349825087456272
+2020,"BLOOD","Salmonella spp.","Meropenem",0,0,0,0,0.397219463753724
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Salmonella spp.","Meropenem",1982,71,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Meropenem",2452,106,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Meropenem",2464,130,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Meropenem",2925,89,0,0
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Salmonella spp.","Meropenem",6657,31,0,0
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Salmonella spp.","Meropenem",7385,40,0,0
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Salmonella spp.","Meropenem",5783,142,0,0
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Salmonella spp.","Meropenem",7376,78,0,0
+"CHE","Switzerland","European Region",2017,"BLOOD","Salmonella spp.","Meropenem",9259,53,0,0
+"CHE","Switzerland","European Region",2018,"BLOOD","Salmonella spp.","Meropenem",19539,109,0,0
+"CHE","Switzerland","European Region",2019,"BLOOD","Salmonella spp.","Meropenem",10424,57,0,0
+"CHE","Switzerland","European Region",2020,"BLOOD","Salmonella spp.","Meropenem",10256,41,0,0
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Salmonella spp.","Meropenem",168145,607,0,0
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Meropenem",126859,527,1,0.189753320683112
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Meropenem",136246,570,0,0
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Meropenem",142185,524,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Salmonella spp.","Meropenem",25686,133,0,0
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Meropenem",26268,145,1,0.689655172413793
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Meropenem",25194,115,0,0
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Meropenem",20249,60,0,0
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Salmonella spp.","Meropenem",2323,16,0,0
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Meropenem",7410,188,3,1.59574468085106
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Meropenem",8980,2001,7,0.349825087456272
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Meropenem",5623,1007,4,0.397219463753724
+"POL","Poland","European Region",2017,"BLOOD","Salmonella spp.","Meropenem",6587,53,0,0
+"POL","Poland","European Region",2018,"BLOOD","Salmonella spp.","Meropenem",6477,28,0,0
+"POL","Poland","European Region",2019,"BLOOD","Salmonella spp.","Meropenem",6404,46,0,0
+"POL","Poland","European Region",2020,"BLOOD","Salmonella spp.","Meropenem",4975,24,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Salmonella spp.","Meropenem",1491,38,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Meropenem",2420,42,1,2.38095238095238
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Meropenem",2528,40,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Meropenem",2458,32,0,0
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Salmonella spp.","Meropenem",1349,26,0,0
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Meropenem",2629,55,0,0
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Meropenem",5463,94,0,0
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Meropenem",6159,100,0,0

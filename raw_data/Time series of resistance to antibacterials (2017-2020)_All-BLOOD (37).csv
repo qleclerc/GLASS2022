@@ -1,0 +1,32 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Ertapenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Salmonella spp.","Ertapenem",0,0,0,0,0
+2018,"BLOOD","Salmonella spp.","Ertapenem",0,0,0.72992700729927,1.54943596549436,1.81818181818182
+2019,"BLOOD","Salmonella spp.","Ertapenem",0,0,0,0,0
+2020,"BLOOD","Salmonella spp.","Ertapenem",0,0,0,0.446428571428571,1.78571428571429
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Salmonella spp.","Ertapenem",1982,41,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Ertapenem",2452,55,1,1.81818181818182
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Ertapenem",2464,71,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Ertapenem",2925,56,1,1.78571428571429
+"CHE","Switzerland","European Region",2017,"BLOOD","Salmonella spp.","Ertapenem",9259,54,0,0
+"CHE","Switzerland","European Region",2018,"BLOOD","Salmonella spp.","Ertapenem",19539,93,0,0
+"CHE","Switzerland","European Region",2019,"BLOOD","Salmonella spp.","Ertapenem",10424,34,0,0
+"CHE","Switzerland","European Region",2020,"BLOOD","Salmonella spp.","Ertapenem",10256,36,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Salmonella spp.","Ertapenem",25686,125,0,0
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Ertapenem",26268,137,2,1.45985401459854
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Ertapenem",25194,64,0,0
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Ertapenem",20249,55,0,0
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Salmonella spp.","Ertapenem",1349,25,0,0
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Ertapenem",2629,53,0,0
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Ertapenem",5463,93,0,0
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Ertapenem",6159,105,0,0

@@ -1,0 +1,28 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gastrointestinal
+Bacterial pathogen filter: Shigella spp.
+Antibiotic filter: Cefotaxime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"STOOL","Shigella spp.","Cefotaxime",1.53417015341702,6.25488995475729,10.9756097560976,22.8791092258749,34.7826086956522
+2018,"STOOL","Shigella spp.","Cefotaxime",1.60366552119129,3.36593532469821,5.12820512820513,17.7156177156177,30.3030303030303
+2019,"STOOL","Shigella spp.","Cefotaxime",1.55763239875389,2.4271678477286,3.2967032967033,24.7252747252747,46.1538461538462
+2020,"STOOL","Shigella spp.","Cefotaxime",4.09638554216868,15.5617062845979,27.027027027027,38.5135135135135,50
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"STOOL","Shigella spp.","Cefotaxime",653,23,8,34.7826086956522
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Shigella spp.","Cefotaxime",818,33,10,30.3030303030303
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Shigella spp.","Cefotaxime",1005,39,18,46.1538461538462
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Shigella spp.","Cefotaxime",1068,12,6,50
+"ARG","Argentina","Region of the Americas",2017,"STOOL","Shigella spp.","Cefotaxime",3022,717,11,1.53417015341702
+"ARG","Argentina","Region of the Americas",2018,"STOOL","Shigella spp.","Cefotaxime",3376,873,14,1.60366552119129
+"ARG","Argentina","Region of the Americas",2019,"STOOL","Shigella spp.","Cefotaxime",2892,963,15,1.55763239875389
+"ARG","Argentina","Region of the Americas",2020,"STOOL","Shigella spp.","Cefotaxime",2201,415,17,4.09638554216868
+"JPN","Japan","Western Pacific Region",2017,"STOOL","Shigella spp.","Cefotaxime",418,82,9,10.9756097560976
+"JPN","Japan","Western Pacific Region",2018,"STOOL","Shigella spp.","Cefotaxime",317,156,8,5.12820512820513
+"JPN","Japan","Western Pacific Region",2019,"STOOL","Shigella spp.","Cefotaxime",306,91,3,3.2967032967033
+"JPN","Japan","Western Pacific Region",2020,"STOOL","Shigella spp.","Cefotaxime",241,74,20,27.027027027027

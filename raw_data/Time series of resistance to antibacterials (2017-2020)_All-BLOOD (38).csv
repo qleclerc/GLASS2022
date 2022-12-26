@@ -1,0 +1,60 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Imipenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Salmonella spp.","Imipenem",0,0,0,0,5.55555555555556
+2018,"BLOOD","Salmonella spp.","Imipenem",0,0,0,0.118040449319518,5.12820512820513
+2019,"BLOOD","Salmonella spp.","Imipenem",0,0,0,0.112751127511275,2.5
+2020,"BLOOD","Salmonella spp.","Imipenem",0,0,0,0,0.634920634920635
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Salmonella spp.","Imipenem",1982,66,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Imipenem",2452,104,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Imipenem",2464,129,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Imipenem",2925,87,0,0
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Salmonella spp.","Imipenem",6657,31,0,0
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Salmonella spp.","Imipenem",7385,40,0,0
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Salmonella spp.","Imipenem",5783,143,0,0
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Salmonella spp.","Imipenem",7376,80,0,0
+"BGD","Bangladesh","South-East Asia Region",2017,"BLOOD","Salmonella spp.","Imipenem",49,12,0,0
+"BGD","Bangladesh","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Imipenem",122,72,0,0
+"BGD","Bangladesh","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Imipenem",170,98,1,1.02040816326531
+"BGD","Bangladesh","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Imipenem",65,32,0,0
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Salmonella spp.","Imipenem",168145,584,0,0
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Imipenem",126859,491,1,0.203665987780041
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Imipenem",136246,530,0,0
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Imipenem",142185,481,0,0
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Salmonella spp.","Imipenem",3518,56,0,0
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Imipenem",3519,55,0,0
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Imipenem",3646,47,0,0
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Imipenem",4095,37,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Salmonella spp.","Imipenem",25686,128,0,0
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Imipenem",26268,145,2,1.37931034482759
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Imipenem",25194,112,0,0
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Imipenem",20249,60,0,0
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Salmonella spp.","Imipenem",2323,145,0,0
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Imipenem",7410,3085,1,0.0324149108589951
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Imipenem",8980,4878,11,0.22550225502255
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Imipenem",5623,630,4,0.634920634920635
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Salmonella spp.","Imipenem",5103,18,1,5.55555555555556
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Salmonella spp.","Imipenem",5595,12,0,0
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Salmonella spp.","Imipenem",6468,18,0,0
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Salmonella spp.","Imipenem",4276,12,0,0
+"POL","Poland","European Region",2017,"BLOOD","Salmonella spp.","Imipenem",6587,48,0,0
+"POL","Poland","European Region",2018,"BLOOD","Salmonella spp.","Imipenem",6477,26,0,0
+"POL","Poland","European Region",2019,"BLOOD","Salmonella spp.","Imipenem",6404,45,0,0
+"POL","Poland","European Region",2020,"BLOOD","Salmonella spp.","Imipenem",4975,23,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Salmonella spp.","Imipenem",1491,38,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Salmonella spp.","Imipenem",2420,39,2,5.12820512820513
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Salmonella spp.","Imipenem",2528,40,1,2.5
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Salmonella spp.","Imipenem",2458,34,0,0
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Salmonella spp.","Imipenem",1349,26,0,0
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Salmonella spp.","Imipenem",2629,54,0,0
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Salmonella spp.","Imipenem",5463,78,0,0
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Salmonella spp.","Imipenem",6159,101,0,0

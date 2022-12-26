@@ -1,0 +1,80 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Meropenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Klebsiella pneumoniae","Meropenem",0,3.29309649208894,12.3221855864343,19.6011834319527,66.6666666666667
+2018,"BLOOD","Klebsiella pneumoniae","Meropenem",0,3.43972696031125,14.4136143248044,22.041717791411,65.3968253968254
+2019,"BLOOD","Klebsiella pneumoniae","Meropenem",0,3.37869742445819,11.2266255843604,36.6482803374432,67.8481012658228
+2020,"BLOOD","Klebsiella pneumoniae","Meropenem",0.148820326678766,4.67032345027669,12.4789604512217,45.2187277429996,75.8620689655172
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",1982,495,63,12.7272727272727
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",2452,563,71,12.6110124333925
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",2464,520,57,10.9615384615385
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",2925,623,96,15.4093097913323
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",6657,1330,244,18.3458646616541
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",7385,1525,303,19.8688524590164
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",5783,1167,199,17.0522707797772
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",7376,1764,463,26.2471655328798
+"BHR","Bahrain","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",196,169,32,18.9349112426036
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",633,125,26,20.8
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",780,207,59,28.5024154589372
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",568,168,72,42.8571428571429
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",634,140,13,9.28571428571429
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",841,200,34,17
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",1020,211,88,41.7061611374408
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",954,206,90,43.6893203883495
+"CHE","Switzerland","European Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",9259,771,2,0.259403372243839
+"CHE","Switzerland","European Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",19539,1741,15,0.861573808156232
+"CHE","Switzerland","European Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",10424,1047,6,0.573065902578797
+"CHE","Switzerland","European Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",10256,1133,4,0.353045013239188
+"EGY","Egypt","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",102,42,28,66.6666666666667
+"EGY","Egypt","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",967,315,206,65.3968253968254
+"EGY","Egypt","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",1114,395,268,67.8481012658228
+"EGY","Egypt","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",901,174,132,75.8620689655172
+"GEO","Georgia","European Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",105,30,14,46.6666666666667
+"GEO","Georgia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",216,60,20,33.3333333333333
+"GEO","Georgia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",433,134,48,35.8208955223881
+"GEO","Georgia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",741,230,127,55.2173913043478
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",168145,31487,56,0.177851176676089
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",126859,24537,51,0.207849370338672
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",136246,26128,48,0.183710961420698
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",142185,27550,41,0.148820326678766
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",3518,693,6,0.865800865800866
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",3519,701,12,1.71184022824536
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",3646,716,7,0.977653631284916
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",4095,870,34,3.90804597701149
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",209,11,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",275,13,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",314,13,0,0
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",422,69,1,1.44927536231884
+"MKD","North Macedonia","European Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",175,22,4,18.1818181818182
+"MKD","North Macedonia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",176,37,6,16.2162162162162
+"MKD","North Macedonia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",276,55,3,5.45454545454545
+"MKD","North Macedonia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",293,117,6,5.12820512820513
+"MLT","Malta","European Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",574,122,8,6.55737704918033
+"MLT","Malta","European Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",1116,141,17,12.0567375886525
+"MLT","Malta","European Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",624,137,9,6.56934306569343
+"MLT","Malta","European Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",530,132,9,6.81818181818182
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",25686,5558,228,4.10219503418496
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",26268,5354,215,4.01568920433321
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",25194,5049,211,4.17904535551594
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",20249,4366,215,4.92441594136509
+"RUS","Russian Federation","European Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",321,125,27,21.6
+"RUS","Russian Federation","European Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",427,163,42,25.7668711656442
+"RUS","Russian Federation","European Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",1173,322,126,39.1304347826087
+"RUS","Russian Federation","European Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",1305,513,329,64.1325536062378
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",1491,487,113,23.2032854209446
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",2420,827,293,35.4292623941959
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",2528,857,372,43.4072345390898
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",2458,777,387,49.8069498069498
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Klebsiella pneumoniae","Meropenem",1349,193,23,11.9170984455959
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Meropenem",2629,325,29,8.92307692307692
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Meropenem",5463,905,104,11.4917127071823
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Meropenem",6159,1152,110,9.54861111111111

@@ -1,0 +1,28 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Doripenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Escherichia coli","Doripenem",0,0.252525252525253,0.505050505050505,0.825717492384159,1.14638447971781
+2018,"BLOOD","Escherichia coli","Doripenem",0,0.0462534690101758,0.0925069380203515,4.21292013567684,8.33333333333333
+2019,"BLOOD","Escherichia coli","Doripenem",0.841042893187553,1.29964232571466,1.75824175824176,8.15184815184815,14.5454545454545
+2020,"BLOOD","Escherichia coli","Doripenem",0.590551181102362,0.94275760493967,1.29496402877698,5.1418640368604,8.98876404494382
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Escherichia coli","Doripenem",25686,1134,13,1.14638447971781
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Escherichia coli","Doripenem",26268,1081,1,0.0925069380203515
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Escherichia coli","Doripenem",25194,1189,10,0.841042893187553
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Escherichia coli","Doripenem",20249,508,3,0.590551181102362
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Escherichia coli","Doripenem",5103,11,0,0
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Doripenem",5595,12,1,8.33333333333333
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Doripenem",6468,55,8,14.5454545454545
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Doripenem",4276,89,8,8.98876404494382
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Escherichia coli","Doripenem",1349,198,1,0.505050505050505
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Doripenem",2629,88,0,0
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Doripenem",5463,455,8,1.75824175824176
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Doripenem",6159,695,9,1.29496402877698

@@ -1,0 +1,84 @@
+Filters
+Region filter: All
+Infection syndrome filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Ampicillin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"URINE","Escherichia coli","Ampicillin",26.8446943078004,63.9272421659263,69.9565217391304,83.5074626865672,100
+2018,"URINE","Escherichia coli","Ampicillin",30.616967643291,64.2314990512334,72.0128542214432,83.1858407079646,100
+2019,"URINE","Escherichia coli","Ampicillin",30.6028179475871,64.7959861775651,71.7331499312242,84.4977590297917,100
+2020,"URINE","Escherichia coli","Ampicillin",29.2063678782888,61.9958787165146,70.7933740191805,83.4159779614325,98.5074626865672
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ampicillin",13558,8982,5869,65.3417947005121
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ampicillin",22331,15083,9677,64.1583239408606
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ampicillin",27055,17771,11021,62.0167688931405
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ampicillin",29681,19840,11754,59.2439516129032
+"ARG","Argentina","Region of the Americas",2017,"URINE","Escherichia coli","Ampicillin",39782,33316,21298,63.9272421659263
+"ARG","Argentina","Region of the Americas",2018,"URINE","Escherichia coli","Ampicillin",44553,36890,23695,64.2314990512334
+"ARG","Argentina","Region of the Americas",2019,"URINE","Escherichia coli","Ampicillin",35830,30096,19501,64.7959861775651
+"ARG","Argentina","Region of the Americas",2020,"URINE","Escherichia coli","Ampicillin",29170,23779,14742,61.9958787165146
+"BGD","Bangladesh","South-East Asia Region",2017,"URINE","Escherichia coli","Ampicillin",209,91,74,81.3186813186813
+"BGD","Bangladesh","South-East Asia Region",2018,"URINE","Escherichia coli","Ampicillin",412,226,188,83.1858407079646
+"BGD","Bangladesh","South-East Asia Region",2019,"URINE","Escherichia coli","Ampicillin",488,319,274,85.8934169278997
+"BGD","Bangladesh","South-East Asia Region",2020,"URINE","Escherichia coli","Ampicillin",261,170,147,86.4705882352941
+"FIN","Finland","European Region",2017,"URINE","Escherichia coli","Ampicillin",281729,1423,382,26.8446943078004
+"FIN","Finland","European Region",2018,"URINE","Escherichia coli","Ampicillin",159588,91,91,100
+"FIN","Finland","European Region",2019,"URINE","Escherichia coli","Ampicillin",159676,123,123,100
+"FIN","Finland","European Region",2020,"URINE","Escherichia coli","Ampicillin",146108,134,132,98.5074626865672
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2017,"URINE","Escherichia coli","Ampicillin",810851,700045,361004,51.5686848702583
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Escherichia coli","Ampicillin",863293,751551,380972,50.6914367754151
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Escherichia coli","Ampicillin",880701,711243,344948,48.4993173922274
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Escherichia coli","Ampicillin",651538,576712,285973,49.5867954889095
+"JPN","Japan","Western Pacific Region",2017,"URINE","Escherichia coli","Ampicillin",452366,350994,165534,47.161489939999
+"JPN","Japan","Western Pacific Region",2018,"URINE","Escherichia coli","Ampicillin",423516,331137,147721,44.6102368506087
+"JPN","Japan","Western Pacific Region",2019,"URINE","Escherichia coli","Ampicillin",453889,351935,158246,44.9645531135011
+"JPN","Japan","Western Pacific Region",2020,"URINE","Escherichia coli","Ampicillin",475584,363841,160978,44.2440516599284
+"KOR","Republic of Korea","Western Pacific Region",2017,"URINE","Escherichia coli","Ampicillin",9130,7874,5418,68.8087376174752
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Escherichia coli","Ampicillin",8554,7255,5050,69.6071674707099
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Escherichia coli","Ampicillin",8565,7270,5215,71.7331499312242
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Escherichia coli","Ampicillin",8567,7293,4988,68.3943507472919
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2017,"URINE","Escherichia coli","Ampicillin",124,109,105,96.3302752293578
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"URINE","Escherichia coli","Ampicillin",120,110,101,91.8181818181818
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"URINE","Escherichia coli","Ampicillin",175,131,124,94.6564885496183
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"URINE","Escherichia coli","Ampicillin",253,214,191,89.2523364485981
+"MYS","Malaysia","Western Pacific Region",2017,"URINE","Escherichia coli","Ampicillin",19286,12657,8246,65.1497195227937
+"MYS","Malaysia","Western Pacific Region",2018,"URINE","Escherichia coli","Ampicillin",19914,12123,7794,64.2910170749814
+"MYS","Malaysia","Western Pacific Region",2019,"URINE","Escherichia coli","Ampicillin",19312,12235,7932,64.8304045770331
+"MYS","Malaysia","Western Pacific Region",2020,"URINE","Escherichia coli","Ampicillin",18124,11191,7028,62.8004646591011
+"NPL","Nepal","South-East Asia Region",2017,"URINE","Escherichia coli","Ampicillin",295,239,239,100
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Escherichia coli","Ampicillin",4866,2006,1493,74.4267198404786
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Escherichia coli","Ampicillin",9953,6037,4336,71.8237535199602
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Escherichia coli","Ampicillin",5975,2373,1726,72.7349346818373
+"OMN","Oman","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ampicillin",4377,3595,2556,71.0987482614743
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ampicillin",3636,2998,2145,71.5476984656438
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ampicillin",8941,6984,5091,72.8951890034364
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ampicillin",3343,2294,1624,70.7933740191805
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ampicillin",8946,4198,3802,90.5669366364936
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ampicillin",14284,9691,8594,88.6802187596739
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ampicillin",15455,11023,9894,89.7577791889685
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ampicillin",28695,4467,4053,90.732034922767
+"PHL","Philippines","Western Pacific Region",2017,"URINE","Escherichia coli","Ampicillin",6689,4020,3357,83.5074626865672
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Ampicillin",8074,4770,3904,81.8448637316562
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Ampicillin",9132,5688,4586,80.6258790436006
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Ampicillin",4560,2865,2358,82.303664921466
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ampicillin",3860,2712,2068,76.2536873156342
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ampicillin",5627,3851,2872,74.5780316800831
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ampicillin",5587,3796,2687,70.7850368809273
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ampicillin",4464,2963,2116,71.4141073236584
+"SWE","Sweden","European Region",2017,"URINE","Escherichia coli","Ampicillin",140606,45433,19624,43.1932736116919
+"SWE","Sweden","European Region",2018,"URINE","Escherichia coli","Ampicillin",115520,24199,7409,30.616967643291
+"SWE","Sweden","European Region",2019,"URINE","Escherichia coli","Ampicillin",229294,43081,13184,30.6028179475871
+"SWE","Sweden","European Region",2020,"URINE","Escherichia coli","Ampicillin",441656,102012,29794,29.2063678782888
+"THA","Thailand","South-East Asia Region",2017,"URINE","Escherichia coli","Ampicillin",2250,1115,975,87.4439461883408
+"THA","Thailand","South-East Asia Region",2018,"URINE","Escherichia coli","Ampicillin",4301,2220,1866,84.054054054054
+"THA","Thailand","South-East Asia Region",2019,"URINE","Escherichia coli","Ampicillin",9011,3793,3205,84.4977590297917
+"THA","Thailand","South-East Asia Region",2020,"URINE","Escherichia coli","Ampicillin",11131,5445,4542,83.4159779614325
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ampicillin",3523,2300,1609,69.9565217391304
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ampicillin",12711,6846,4930,72.0128542214432
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ampicillin",5444,3103,2215,71.3825330325491
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ampicillin",5309,1512,989,65.4100529100529

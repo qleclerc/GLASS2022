@@ -1,0 +1,64 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Colistin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Klebsiella pneumoniae","Colistin",0,1.78571428571429,5.35483870967742,9.84359483614697,36.3636363636364
+2018,"BLOOD","Klebsiella pneumoniae","Colistin",0,0.824175824175824,2.20228741051161,9.58078965430047,27.5862068965517
+2019,"BLOOD","Klebsiella pneumoniae","Colistin",0,0,1.81911679629749,11.8557368557369,39.6551724137931
+2020,"BLOOD","Klebsiella pneumoniae","Colistin",0,0,3.73953610045344,14.7409152086137,32.9113924050633
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Klebsiella pneumoniae","Colistin",6657,1272,100,7.86163522012579
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Klebsiella pneumoniae","Colistin",7385,1457,135,9.2656142759094
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Klebsiella pneumoniae","Colistin",5783,1053,92,8.7369420702754
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Klebsiella pneumoniae","Colistin",7376,1486,193,12.9878869448183
+"BHR","Bahrain","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",196,33,12,36.3636363636364
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",633,29,8,27.5862068965517
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",780,58,23,39.6551724137931
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",568,79,26,32.9113924050633
+"CHE","Switzerland","European Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",9259,138,0,0
+"CHE","Switzerland","European Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",19539,237,3,1.26582278481013
+"CHE","Switzerland","European Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",10424,76,0,0
+"CHE","Switzerland","European Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",10256,51,0,0
+"GEO","Georgia","European Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",105,19,3,15.7894736842105
+"GEO","Georgia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",216,11,0,0
+"GEO","Georgia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",433,13,0,0
+"GEO","Georgia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",741,42,0,0
+"MKD","North Macedonia","European Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",175,13,1,7.69230769230769
+"MKD","North Macedonia","European Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",176,30,0,0
+"MKD","North Macedonia","European Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",276,28,0,0
+"MKD","North Macedonia","European Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",293,17,1,5.88235294117647
+"MLT","Malta","European Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",574,42,1,2.38095238095238
+"MLT","Malta","European Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",1116,69,2,2.89855072463768
+"MLT","Malta","European Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",624,47,1,2.12765957446809
+"MLT","Malta","European Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",530,63,1,1.58730158730159
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",25686,224,0,0
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",26268,182,2,1.0989010989011
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",25194,51,0,0
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",20249,31,0,0
+"OMN","Oman","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",1043,93,5,5.37634408602151
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",631,38,4,10.5263157894737
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",1007,88,3,3.40909090909091
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",876,25,5,20
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",5103,311,8,2.57234726688103
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",5595,332,5,1.50602409638554
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",6468,331,5,1.51057401812689
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",4276,488,23,4.71311475409836
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",1491,143,36,25.1748251748252
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",2420,410,90,21.9512195121951
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",2528,485,136,28.0412371134021
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",2458,399,99,24.812030075188
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",1349,120,0,0
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",2629,34,0,0
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",5463,250,0,0
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",6159,470,13,2.76595744680851
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Colistin",835,75,4,5.33333333333333
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Colistin",1660,77,6,7.79220779220779
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Colistin",932,33,7,21.2121212121212
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Colistin",917,12,0,0

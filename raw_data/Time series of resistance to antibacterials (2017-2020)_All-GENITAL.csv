@@ -1,0 +1,36 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+Antibiotic filter: Azithromycin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"GENITAL","Neisseria gonorrhoeae","Azithromycin",0,0,7.2192513368984,11.7107942973523,18.75
+2018,"GENITAL","Neisseria gonorrhoeae","Azithromycin",0,0,13.2743362831858,16.2810625535561,28.3783783783784
+2019,"GENITAL","Neisseria gonorrhoeae","Azithromycin",0,2.35294117647059,14.8582600195503,22.1538461538462,29.8076923076923
+2020,"GENITAL","Neisseria gonorrhoeae","Azithromycin",0,0,8.84210526315789,11.1111111111111,14.4242424242424
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"CHE","Switzerland","European Region",2017,"GENITAL","Neisseria gonorrhoeae","Azithromycin",94,32,6,18.75
+"CHE","Switzerland","European Region",2018,"GENITAL","Neisseria gonorrhoeae","Azithromycin",110,74,21,28.3783783783784
+"CHE","Switzerland","European Region",2019,"GENITAL","Neisseria gonorrhoeae","Azithromycin",154,104,31,29.8076923076923
+"CHE","Switzerland","European Region",2020,"GENITAL","Neisseria gonorrhoeae","Azithromycin",154,81,9,11.1111111111111
+"JPN","Japan","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Azithromycin",982,982,115,11.7107942973523
+"JPN","Japan","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Azithromycin",1167,1167,190,16.2810625535561
+"JPN","Japan","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Azithromycin",1023,1023,152,14.8582600195503
+"JPN","Japan","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Azithromycin",825,825,119,14.4242424242424
+"NOR","Norway","European Region",2017,"GENITAL","Neisseria gonorrhoeae","Azithromycin",374,374,27,7.2192513368984
+"NOR","Norway","European Region",2018,"GENITAL","Neisseria gonorrhoeae","Azithromycin",226,226,30,13.2743362831858
+"NOR","Norway","European Region",2019,"GENITAL","Neisseria gonorrhoeae","Azithromycin",325,325,72,22.1538461538462
+"NOR","Norway","European Region",2020,"GENITAL","Neisseria gonorrhoeae","Azithromycin",475,475,42,8.84210526315789
+"PHL","Philippines","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Azithromycin",119,18,0,0
+"PHL","Philippines","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Azithromycin",103,48,0,0
+"PHL","Philippines","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Azithromycin",140,85,2,2.35294117647059
+"PHL","Philippines","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Azithromycin",44,32,0,0
+"ZAF","South Africa","African Region",2017,"GENITAL","Neisseria gonorrhoeae","Azithromycin",286,274,0,0
+"ZAF","South Africa","African Region",2018,"GENITAL","Neisseria gonorrhoeae","Azithromycin",167,163,0,0
+"ZAF","South Africa","African Region",2019,"GENITAL","Neisseria gonorrhoeae","Azithromycin",227,225,0,0
+"ZAF","South Africa","African Region",2020,"GENITAL","Neisseria gonorrhoeae","Azithromycin",316,316,0,0

@@ -1,0 +1,92 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Acinetobacter spp.
+Antibiotic filter: Imipenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Acinetobacter spp.","Imipenem",1.34048257372654,46.1841640155532,63.6363636363636,78.6363636363636,100
+2018,"BLOOD","Acinetobacter spp.","Imipenem",0.984251968503937,47.5940879949102,73.5294117647059,78.3400809716599,89.3129770992366
+2019,"BLOOD","Acinetobacter spp.","Imipenem",0.876424189307625,47.9986006775667,66.8571428571429,78.8111011896189,96.0698689956332
+2020,"BLOOD","Acinetobacter spp.","Imipenem",0.77683615819209,52.4591350475483,71.889400921659,86.2803971145981,97.7011494252874
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",1982,65,29,44.6153846153846
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",2452,98,46,46.9387755102041
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",2464,95,40,42.1052631578947
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",2925,115,58,50.4347826086956
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Acinetobacter spp.","Imipenem",6657,370,279,75.4054054054054
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Acinetobacter spp.","Imipenem",7385,372,281,75.5376344086021
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Acinetobacter spp.","Imipenem",5783,292,202,69.1780821917808
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Acinetobacter spp.","Imipenem",7376,640,528,82.5
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",634,112,108,96.4285714285714
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",841,131,117,89.3129770992366
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",1020,229,220,96.0698689956332
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",954,348,340,97.7011494252874
+"CHE","Switzerland","European Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",9259,80,8,10
+"CHE","Switzerland","European Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",19539,125,4,3.2
+"CHE","Switzerland","European Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",10424,57,1,1.75438596491228
+"CHE","Switzerland","European Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",10256,91,9,9.89010989010989
+"EGY","Egypt","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",102,11,7,63.6363636363636
+"EGY","Egypt","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",967,68,50,73.5294117647059
+"EGY","Egypt","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",1114,93,57,61.2903225806452
+"EGY","Egypt","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",901,42,29,69.0476190476191
+"GEO","Georgia","European Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",105,20,16,80
+"GEO","Georgia","European Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",216,28,24,85.7142857142857
+"GEO","Georgia","European Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",433,83,62,74.6987951807229
+"GEO","Georgia","European Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",741,171,115,67.2514619883041
+"IND","India","South-East Asia Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",8532,1171,735,62.7668659265585
+"IND","India","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",14459,1605,944,58.816199376947
+"IND","India","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",24223,3518,2199,62.5071063104036
+"IND","India","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",12371,1546,1207,78.0724450194049
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",168145,746,10,1.34048257372654
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",126859,1016,10,0.984251968503937
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",136246,1141,10,0.876424189307625
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",142185,1416,11,0.77683615819209
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",3518,235,188,80
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",3519,247,192,77.7327935222672
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",3646,225,172,76.4444444444444
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",4095,217,156,71.889400921659
+"MKD","North Macedonia","European Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",175,22,17,77.2727272727273
+"MKD","North Macedonia","European Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",176,22,17,77.2727272727273
+"MKD","North Macedonia","European Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",276,37,33,89.1891891891892
+"MKD","North Macedonia","European Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",293,39,37,94.8717948717949
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",25686,2070,978,47.2463768115942
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",26268,2085,1006,48.2494004796163
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",25194,1752,820,46.8036529680365
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",20249,1641,831,50.6398537477148
+"OMN","Oman","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",1043,85,41,48.2352941176471
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",631,38,21,55.2631578947368
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",1007,93,54,58.0645161290323
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",876,31,30,96.7741935483871
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",2323,95,60,63.1578947368421
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",7410,176,59,33.5227272727273
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",8980,350,234,66.8571428571429
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",5623,340,204,60
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",5103,880,352,40
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",5595,785,270,34.3949044585987
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",6468,1010,338,33.4653465346535
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",4276,854,321,37.5878220140515
+"RUS","Russian Federation","European Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",321,51,38,74.5098039215686
+"RUS","Russian Federation","European Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",427,76,60,78.9473684210526
+"RUS","Russian Federation","European Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",1173,149,117,78.5234899328859
+"RUS","Russian Federation","European Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",1305,203,188,92.6108374384236
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",1491,183,140,76.5027322404372
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",2420,302,261,86.4238410596027
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",2528,303,246,81.1881188118812
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",2458,476,417,87.6050420168067
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",1349,164,74,45.1219512195122
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",2629,337,174,51.6320474777448
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",5463,620,305,49.1935483870968
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",6159,783,425,54.2784163473819
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",835,231,188,81.3852813852814
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",1660,210,173,82.3809523809524
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",932,112,92,82.1428571428571
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",917,113,96,84.9557522123894
+"ZAF","South Africa","African Region",2017,"BLOOD","Acinetobacter spp.","Imipenem",2931,393,393,100
+"ZAF","South Africa","African Region",2018,"BLOOD","Acinetobacter spp.","Imipenem",20691,2980,2311,77.5503355704698
+"ZAF","South Africa","African Region",2019,"BLOOD","Acinetobacter spp.","Imipenem",20489,2330,1843,79.0987124463519
+"ZAF","South Africa","African Region",2020,"BLOOD","Acinetobacter spp.","Imipenem",23840,4452,3277,73.607367475292

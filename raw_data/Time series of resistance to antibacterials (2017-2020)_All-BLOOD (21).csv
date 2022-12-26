@@ -1,0 +1,72 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Klebsiella pneumoniae
+Antibiotic filter: Cefepime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Klebsiella pneumoniae","Cefepime",3.20451738133051,24.8113160140156,42.8024569348362,55.2577159387028,96.4912280701754
+2018,"BLOOD","Klebsiella pneumoniae","Cefepime",3.61429832303619,26.0737897722957,47.6068965517241,65.5772200283516,90.8587257617728
+2019,"BLOOD","Klebsiella pneumoniae","Cefepime",3.75613747954174,26.0715942020636,49.7822314766615,69.600181506504,94.8369565217391
+2020,"BLOOD","Klebsiella pneumoniae","Cefepime",4.39564680456931,26.9140878703383,55.291608228144,80.3114486308245,93.3333333333333
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",1982,353,81,22.9461756373938
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",2452,428,100,23.3644859813084
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",2464,391,97,24.8081841432225
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",2925,470,128,27.2340425531915
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",6657,1251,635,50.7593924860112
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",7385,1450,731,50.4137931034483
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",5783,1130,549,48.5840707964602
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",7376,1656,843,50.9057971014493
+"BHR","Bahrain","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",196,169,75,44.3786982248521
+"BHR","Bahrain","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",633,125,56,44.8
+"BHR","Bahrain","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",780,205,110,53.6585365853659
+"BHR","Bahrain","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",568,168,111,66.0714285714286
+"EGY","Egypt","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",102,57,55,96.4912280701754
+"EGY","Egypt","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",967,361,328,90.8587257617728
+"EGY","Egypt","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",1114,368,349,94.8369565217391
+"EGY","Egypt","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",901,225,210,93.3333333333333
+"IND","India","South-East Asia Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",8532,821,653,79.537149817296
+"IND","India","South-East Asia Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",14459,396,291,73.4848484848485
+"IND","India","South-East Asia Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",24223,1480,1154,77.972972972973
+"IND","India","South-East Asia Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",12371,844,686,81.2796208530806
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",168145,28335,908,3.20451738133051
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",126859,22660,819,3.61429832303619
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",136246,24440,918,3.75613747954174
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",142185,25912,1139,4.39564680456931
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",3518,693,143,20.6349206349206
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",3519,701,144,20.5420827389444
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",3646,716,122,17.0391061452514
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",4095,870,171,19.6551724137931
+"MLT","Malta","European Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",574,122,25,20.4918032786885
+"MLT","Malta","European Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",1116,142,35,24.6478873239437
+"MLT","Malta","European Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",624,137,35,25.5474452554745
+"MLT","Malta","European Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",530,132,34,25.7575757575758
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",25686,5581,1697,30.406737143881
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",26268,5377,1632,30.3514971173517
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",25194,5068,1401,27.6440410418311
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",20249,4357,1168,26.8074363093872
+"OMN","Oman","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",1043,219,116,52.9680365296804
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",631,86,44,51.1627906976744
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",1007,255,130,50.9803921568627
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",876,87,77,88.5057471264368
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",2323,56,52,92.8571428571429
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",7410,67,54,80.5970149253731
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",8980,105,96,91.4285714285714
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",5623,151,125,82.7814569536424
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",5103,1084,429,39.5756457564576
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",5595,1244,548,44.0514469453376
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",6468,1509,629,41.6832339297548
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",4276,1120,413,36.875
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",1491,473,195,41.2262156448203
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",2420,823,551,66.9501822600243
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",2528,846,606,71.6312056737589
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",2458,779,603,77.4069319640565
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"BLOOD","Klebsiella pneumoniae","Cefepime",835,191,107,56.020942408377
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Klebsiella pneumoniae","Cefepime",1660,384,236,61.4583333333333
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Klebsiella pneumoniae","Cefepime",932,211,134,63.5071090047393
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Klebsiella pneumoniae","Cefepime",917,186,111,59.6774193548387

@@ -1,0 +1,24 @@
+Filters
+Region filter: All
+Infection syndrome filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Doripenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"URINE","Escherichia coli","Doripenem",0,0.0597133757961783,0.119426751592357,0.179140127388535,0.238853503184713
+2018,"URINE","Escherichia coli","Doripenem",1.41078838174274,1.67284538466771,1.93490238759268,2.19695939051765,2.45901639344262
+2019,"URINE","Escherichia coli","Doripenem",0.731707317073171,2.3780487804878,4.02439024390244,5.67073170731707,7.31707317073171
+2020,"URINE","Escherichia coli","Doripenem",0.534045393858478,2.12011076497058,3.70617613608268,5.29224150719478,6.87830687830688
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"MYS","Malaysia","Western Pacific Region",2017,"URINE","Escherichia coli","Doripenem",19286,1256,3,0.238853503184713
+"MYS","Malaysia","Western Pacific Region",2018,"URINE","Escherichia coli","Doripenem",19914,1205,17,1.41078838174274
+"MYS","Malaysia","Western Pacific Region",2019,"URINE","Escherichia coli","Doripenem",19312,1230,9,0.731707317073171
+"MYS","Malaysia","Western Pacific Region",2020,"URINE","Escherichia coli","Doripenem",18124,749,4,0.534045393858478
+"PHL","Philippines","Western Pacific Region",2017,"URINE","Escherichia coli","Doripenem",6689,115,0,0
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Doripenem",8074,122,3,2.45901639344262
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Doripenem",9132,205,15,7.31707317073171
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Doripenem",4560,189,13,6.87830687830688

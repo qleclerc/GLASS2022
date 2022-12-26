@@ -1,0 +1,104 @@
+Filters
+Region filter: All
+Infection syndrome filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Ciprofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"URINE","Escherichia coli","Ciprofloxacin",8.67748279252704,22.1811180267555,39.0321650952801,60.8153638814016,76.1288546255507
+2018,"URINE","Escherichia coli","Ciprofloxacin",8.41390331602078,22.926712710167,38.8895859124423,54.8091057599716,92.8867924528302
+2019,"URINE","Escherichia coli","Ciprofloxacin",8.43477710500222,22.1625870543898,40.666860543038,57.9671564483161,74.1986303572003
+2020,"URINE","Escherichia coli","Ciprofloxacin",8.05555555555556,22.6960679332388,37.5262329942565,50.3287305707037,70.8465707344422
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ciprofloxacin",13558,9554,3189,33.3786895541135
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ciprofloxacin",22331,15063,5788,38.4252804886145
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ciprofloxacin",27055,17801,7521,42.2504353687995
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ciprofloxacin",29681,20156,6429,31.89620956539
+"ARG","Argentina","Region of the Americas",2017,"URINE","Escherichia coli","Ciprofloxacin",39782,33330,6911,20.7350735073507
+"ARG","Argentina","Region of the Americas",2018,"URINE","Escherichia coli","Ciprofloxacin",44553,37341,8334,22.3186309954206
+"ARG","Argentina","Region of the Americas",2019,"URINE","Escherichia coli","Ciprofloxacin",35830,30897,7132,23.0831472311228
+"ARG","Argentina","Region of the Americas",2020,"URINE","Escherichia coli","Ciprofloxacin",29170,24708,5883,23.8101019912579
+"BGD","Bangladesh","South-East Asia Region",2017,"URINE","Escherichia coli","Ciprofloxacin",209,106,61,57.5471698113208
+"BGD","Bangladesh","South-East Asia Region",2018,"URINE","Escherichia coli","Ciprofloxacin",412,272,170,62.5
+"BGD","Bangladesh","South-East Asia Region",2019,"URINE","Escherichia coli","Ciprofloxacin",488,376,236,62.7659574468085
+"BGD","Bangladesh","South-East Asia Region",2020,"URINE","Escherichia coli","Ciprofloxacin",261,199,117,58.7939698492462
+"CHE","Switzerland","European Region",2017,"URINE","Escherichia coli","Ciprofloxacin",97650,10019,1419,14.1630901287554
+"CHE","Switzerland","European Region",2018,"URINE","Escherichia coli","Ciprofloxacin",118114,97819,13684,13.9891023216349
+"CHE","Switzerland","European Region",2019,"URINE","Escherichia coli","Ciprofloxacin",139721,115023,14728,12.8043956426106
+"CHE","Switzerland","European Region",2020,"URINE","Escherichia coli","Ciprofloxacin",153286,126546,15556,12.2927631059062
+"FIN","Finland","European Region",2017,"URINE","Escherichia coli","Ciprofloxacin",281729,117972,10237,8.67748279252704
+"FIN","Finland","European Region",2018,"URINE","Escherichia coli","Ciprofloxacin",159588,87605,7371,8.41390331602078
+"FIN","Finland","European Region",2019,"URINE","Escherichia coli","Ciprofloxacin",159676,94798,7996,8.43477710500222
+"FIN","Finland","European Region",2020,"URINE","Escherichia coli","Ciprofloxacin",146108,93235,7594,8.14500992116694
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2017,"URINE","Escherichia coli","Ciprofloxacin",810851,767049,80686,10.5190150824784
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Escherichia coli","Ciprofloxacin",863293,816875,89172,10.9162356541699
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Escherichia coli","Ciprofloxacin",880701,822931,87265,10.6041697299045
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Escherichia coli","Ciprofloxacin",651538,605515,66023,10.9036109757809
+"IND","India","South-East Asia Region",2017,"URINE","Escherichia coli","Ciprofloxacin",10034,3632,2765,76.1288546255507
+"IND","India","South-East Asia Region",2018,"URINE","Escherichia coli","Ciprofloxacin",25203,10356,7985,77.1050598686752
+"IND","India","South-East Asia Region",2019,"URINE","Escherichia coli","Ciprofloxacin",47746,31103,23078,74.1986303572003
+"IND","India","South-East Asia Region",2020,"URINE","Escherichia coli","Ciprofloxacin",18235,10527,7414,70.4284221525601
+"JPN","Japan","Western Pacific Region",2017,"URINE","Escherichia coli","Ciprofloxacin",452366,175535,68712,39.1443301905603
+"JPN","Japan","Western Pacific Region",2018,"URINE","Escherichia coli","Ciprofloxacin",423516,178044,65155,36.5948866572308
+"JPN","Japan","Western Pacific Region",2019,"URINE","Escherichia coli","Ciprofloxacin",453889,200811,74267,36.9835317786376
+"JPN","Japan","Western Pacific Region",2020,"URINE","Escherichia coli","Ciprofloxacin",475584,220505,82150,37.2553910342169
+"KOR","Republic of Korea","Western Pacific Region",2017,"URINE","Escherichia coli","Ciprofloxacin",9130,7874,3221,40.9067818135636
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Escherichia coli","Ciprofloxacin",8554,7255,2954,40.7167470709855
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Escherichia coli","Ciprofloxacin",8565,7270,3272,45.0068775790922
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Escherichia coli","Ciprofloxacin",8567,7293,3265,44.7689565336624
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2017,"URINE","Escherichia coli","Ciprofloxacin",124,108,70,64.8148148148148
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"URINE","Escherichia coli","Ciprofloxacin",120,110,72,65.4545454545455
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"URINE","Escherichia coli","Ciprofloxacin",175,147,89,60.5442176870748
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"URINE","Escherichia coli","Ciprofloxacin",253,170,78,45.8823529411765
+"LBN","Lebanon","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ciprofloxacin",2017,536,231,43.0970149253731
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ciprofloxacin",3964,3405,1340,39.3538913362702
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ciprofloxacin",1363,1097,453,41.2944393801276
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ciprofloxacin",3918,2188,827,37.7970749542962
+"MYS","Malaysia","Western Pacific Region",2017,"URINE","Escherichia coli","Ciprofloxacin",19286,12934,3430,26.5192515849699
+"MYS","Malaysia","Western Pacific Region",2018,"URINE","Escherichia coli","Ciprofloxacin",19914,12338,3103,25.1499432647107
+"MYS","Malaysia","Western Pacific Region",2019,"URINE","Escherichia coli","Ciprofloxacin",19312,12224,3311,27.0860602094241
+"MYS","Malaysia","Western Pacific Region",2020,"URINE","Escherichia coli","Ciprofloxacin",18124,11615,3189,27.4558760223848
+"NOR","Norway","European Region",2017,"URINE","Escherichia coli","Ciprofloxacin",2252,1510,154,10.1986754966887
+"NOR","Norway","European Region",2018,"URINE","Escherichia coli","Ciprofloxacin",2117,1423,141,9.90864371047084
+"NOR","Norway","European Region",2019,"URINE","Escherichia coli","Ciprofloxacin",2187,1501,139,9.26049300466356
+"NOR","Norway","European Region",2020,"URINE","Escherichia coli","Ciprofloxacin",3219,2520,203,8.05555555555556
+"NPL","Nepal","South-East Asia Region",2017,"URINE","Escherichia coli","Ciprofloxacin",295,239,178,74.4769874476987
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Escherichia coli","Ciprofloxacin",4866,2447,1159,47.3641193297916
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Escherichia coli","Ciprofloxacin",9953,6573,2985,45.4130534002738
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Escherichia coli","Ciprofloxacin",5975,3235,1599,49.4281298299845
+"OMN","Oman","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ciprofloxacin",4377,3210,995,30.9968847352025
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ciprofloxacin",3636,2909,857,29.4602956342386
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ciprofloxacin",8941,7129,2064,28.9521672043765
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ciprofloxacin",3343,2374,796,33.5299073294019
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ciprofloxacin",8946,6169,4343,70.4003890419841
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ciprofloxacin",14284,10600,9846,92.8867924528302
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ciprofloxacin",15455,11384,7990,70.1862262825017
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ciprofloxacin",28695,5351,3791,70.8465707344422
+"PHL","Philippines","Western Pacific Region",2017,"URINE","Escherichia coli","Ciprofloxacin",6689,3926,1817,46.2812022414671
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Ciprofloxacin",8074,4794,2182,45.5152273675428
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Ciprofloxacin",9132,5721,2874,50.2359727320399
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Ciprofloxacin",4560,2862,1449,50.6289308176101
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ciprofloxacin",3860,2500,973,38.92
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ciprofloxacin",5627,3853,1595,41.3963145600831
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ciprofloxacin",5587,3564,1427,40.0392817059484
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ciprofloxacin",4464,2987,1135,37.9979912956143
+"SDN","Sudan","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ciprofloxacin",32,21,13,61.9047619047619
+"SDN","Sudan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ciprofloxacin",664,351,223,63.5327635327635
+"SDN","Sudan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ciprofloxacin",55,21,14,66.6666666666667
+"SDN","Sudan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ciprofloxacin",235,100,69,69
+"SWE","Sweden","European Region",2017,"URINE","Escherichia coli","Ciprofloxacin",140606,121073,14261,11.7788441683943
+"SWE","Sweden","European Region",2018,"URINE","Escherichia coli","Ciprofloxacin",115520,103196,12692,12.2989263149734
+"SWE","Sweden","European Region",2019,"URINE","Escherichia coli","Ciprofloxacin",229294,204382,22272,10.8972414400485
+"SWE","Sweden","European Region",2020,"URINE","Escherichia coli","Ciprofloxacin",441656,397996,42520,10.6835244575322
+"THA","Thailand","South-East Asia Region",2017,"URINE","Escherichia coli","Ciprofloxacin",2250,1233,782,63.4225466342255
+"THA","Thailand","South-East Asia Region",2018,"URINE","Escherichia coli","Ciprofloxacin",4301,1159,664,57.290767903365
+"THA","Thailand","South-East Asia Region",2019,"URINE","Escherichia coli","Ciprofloxacin",9011,3622,2283,63.0314743235781
+"THA","Thailand","South-East Asia Region",2020,"URINE","Escherichia coli","Ciprofloxacin",11131,5998,3712,61.8872957652551
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ciprofloxacin",3523,2195,758,34.5330296127563
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ciprofloxacin",12711,7830,1938,24.7509578544061
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ciprofloxacin",5444,3244,709,21.8557336621455
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ciprofloxacin",5309,2710,605,22.3247232472325

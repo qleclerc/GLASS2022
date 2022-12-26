@@ -1,0 +1,48 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Streptococcus pneumoniae
+Antibiotic filter: Ceftriaxone
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",0,0,0.408323160965812,2.95138888888889,6.66666666666667
+2018,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",0,0,0.117726202489068,0.999216300940439,10.4166666666667
+2019,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",0,0.578470824949698,1.06818181818182,3.24612403100775,7.31707317073171
+2020,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",0,0,1.47438720093938,3.75,10.7142857142857
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",1982,80,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",2452,72,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",2464,100,1,1
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",2925,45,1,2.22222222222222
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",634,15,1,6.66666666666667
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",841,30,0,0
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",1020,41,3,7.31707317073171
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",954,20,1,5
+"CHE","Switzerland","European Region",2017,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",9259,480,0,0
+"CHE","Switzerland","European Region",2018,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",19539,999,0,0
+"CHE","Switzerland","European Region",2019,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",10424,507,0,0
+"CHE","Switzerland","European Region",2020,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",10256,360,0,0
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",168145,4170,19,0.455635491606715
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",126859,2973,7,0.235452404978137
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",136246,2982,23,0.771294433266264
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",142185,1514,11,0.726552179656539
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",3518,54,1,1.85185185185185
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",3519,48,5,10.4166666666667
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",3646,36,1,2.77777777777778
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",4095,28,3,10.7142857142857
+"MLT","Malta","European Region",2017,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",574,19,0,0
+"MLT","Malta","European Region",2018,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",1116,36,0,0
+"MLT","Malta","European Region",2019,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",624,26,0,0
+"MLT","Malta","European Region",2020,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",530,13,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",25686,277,1,0.36101083032491
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",26268,174,1,0.574712643678161
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",25194,176,2,1.13636363636364
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",20249,60,2,3.33333333333333
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",1491,32,2,6.25
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",2420,44,1,2.27272727272727
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",2528,43,2,4.65116279069767
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Streptococcus pneumoniae","Ceftriaxone",2458,32,0,0

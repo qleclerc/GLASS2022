@@ -1,0 +1,32 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Streptococcus pneumoniae
+Antibiotic filter: Oxacillin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Streptococcus pneumoniae","Oxacillin",0,11.328125,20.082203815261,37.3136992414101,74.0740740740741
+2018,"BLOOD","Streptococcus pneumoniae","Oxacillin",5,10.6825153374233,19.8530123279983,39.0970031545741,75
+2019,"BLOOD","Streptococcus pneumoniae","Oxacillin",11.9402985074627,23.5296290823112,34.7490012159111,51.0233918128655,77.7777777777778
+2020,"BLOOD","Streptococcus pneumoniae","Oxacillin",5.93220338983051,24.5599739243807,31.7780580075662,45.1258782201405,82.1428571428571
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"CHE","Switzerland","European Region",2017,"BLOOD","Streptococcus pneumoniae","Oxacillin",9259,192,29,15.1041666666667
+"CHE","Switzerland","European Region",2018,"BLOOD","Streptococcus pneumoniae","Oxacillin",19539,326,41,12.5766871165644
+"CHE","Switzerland","European Region",2019,"BLOOD","Streptococcus pneumoniae","Oxacillin",10424,201,24,11.9402985074627
+"CHE","Switzerland","European Region",2020,"BLOOD","Streptococcus pneumoniae","Oxacillin",10256,118,7,5.93220338983051
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Streptococcus pneumoniae","Oxacillin",3518,54,40,74.0740740740741
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Oxacillin",3519,48,36,75
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Oxacillin",3646,36,28,77.7777777777778
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Oxacillin",4095,28,23,82.1428571428571
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Streptococcus pneumoniae","Oxacillin",25686,415,104,25.0602409638554
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Streptococcus pneumoniae","Oxacillin",26268,317,86,27.1293375394322
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Streptococcus pneumoniae","Oxacillin",25194,303,83,27.3927392739274
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Streptococcus pneumoniae","Oxacillin",20249,122,40,32.7868852459016
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Streptococcus pneumoniae","Oxacillin",1491,12,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Streptococcus pneumoniae","Oxacillin",2420,20,1,5
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Streptococcus pneumoniae","Oxacillin",2528,19,8,42.1052631578947
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Streptococcus pneumoniae","Oxacillin",2458,13,4,30.7692307692308

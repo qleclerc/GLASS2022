@@ -1,0 +1,92 @@
+Filters
+Region filter: All
+Infection syndrome filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Imipenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"URINE","Escherichia coli","Imipenem",0,0.0418290813802584,0.525394045534151,2.42441002949852,29.7183942480527
+2018,"URINE","Escherichia coli","Imipenem",0.00769280082056542,0.0720482683243827,1.08452950558214,3.9976928992566,32.1516225797655
+2019,"URINE","Escherichia coli","Imipenem",0.00730220161378656,0.0986914143289435,0.723981900452489,3.90990228045869,28.125443451114
+2020,"URINE","Escherichia coli","Imipenem",0.0130396642879158,0.122671313345087,1.24705089315807,5.38995710620425,20.5306770098731
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Imipenem",13558,8670,44,0.507497116493656
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Imipenem",22331,14071,73,0.518797526828228
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Imipenem",27055,15406,73,0.473841360508893
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Imipenem",29681,18875,91,0.482119205298013
+"ARG","Argentina","Region of the Americas",2017,"URINE","Escherichia coli","Imipenem",39782,19806,31,0.15651822679996
+"ARG","Argentina","Region of the Americas",2018,"URINE","Escherichia coli","Imipenem",44553,23434,30,0.12801911752155
+"ARG","Argentina","Region of the Americas",2019,"URINE","Escherichia coli","Imipenem",35830,21413,28,0.13076168682576
+"ARG","Argentina","Region of the Americas",2020,"URINE","Escherichia coli","Imipenem",29170,16102,27,0.167681033411998
+"BGD","Bangladesh","South-East Asia Region",2017,"URINE","Escherichia coli","Imipenem",209,100,7,7
+"BGD","Bangladesh","South-East Asia Region",2018,"URINE","Escherichia coli","Imipenem",412,289,34,11.7647058823529
+"BGD","Bangladesh","South-East Asia Region",2019,"URINE","Escherichia coli","Imipenem",488,371,34,9.1644204851752
+"BGD","Bangladesh","South-East Asia Region",2020,"URINE","Escherichia coli","Imipenem",261,138,7,5.07246376811594
+"CHE","Switzerland","European Region",2017,"URINE","Escherichia coli","Imipenem",97650,8295,1,0.0120554550934298
+"CHE","Switzerland","European Region",2018,"URINE","Escherichia coli","Imipenem",118114,77995,6,0.00769280082056542
+"CHE","Switzerland","European Region",2019,"URINE","Escherichia coli","Imipenem",139721,82167,6,0.00730220161378656
+"CHE","Switzerland","European Region",2020,"URINE","Escherichia coli","Imipenem",153286,84358,11,0.0130396642879158
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2017,"URINE","Escherichia coli","Imipenem",810851,27694,39,0.140824727377771
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Escherichia coli","Imipenem",863293,35006,24,0.0685596754842027
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Escherichia coli","Imipenem",880701,33716,35,0.103808280934868
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Escherichia coli","Imipenem",651538,25802,35,0.135648399348888
+"IND","India","South-East Asia Region",2017,"URINE","Escherichia coli","Imipenem",10034,1669,496,29.7183942480527
+"IND","India","South-East Asia Region",2018,"URINE","Escherichia coli","Imipenem",25203,7334,2358,32.1516225797655
+"IND","India","South-East Asia Region",2019,"URINE","Escherichia coli","Imipenem",47746,28188,7928,28.125443451114
+"IND","India","South-East Asia Region",2020,"URINE","Escherichia coli","Imipenem",18235,11344,2329,20.5306770098731
+"JPN","Japan","Western Pacific Region",2017,"URINE","Escherichia coli","Imipenem",452366,339572,107,0.0315102540845535
+"JPN","Japan","Western Pacific Region",2018,"URINE","Escherichia coli","Imipenem",423516,312474,82,0.0262421833496547
+"JPN","Japan","Western Pacific Region",2019,"URINE","Escherichia coli","Imipenem",453889,333128,99,0.0297183064767897
+"JPN","Japan","Western Pacific Region",2020,"URINE","Escherichia coli","Imipenem",475584,345339,103,0.0298257654073244
+"KOR","Republic of Korea","Western Pacific Region",2017,"URINE","Escherichia coli","Imipenem",9130,7874,3,0.0381000762001524
+"KOR","Republic of Korea","Western Pacific Region",2018,"URINE","Escherichia coli","Imipenem",8554,7255,5,0.0689179875947622
+"KOR","Republic of Korea","Western Pacific Region",2019,"URINE","Escherichia coli","Imipenem",8565,7270,5,0.0687757909215956
+"KOR","Republic of Korea","Western Pacific Region",2020,"URINE","Escherichia coli","Imipenem",8567,7293,8,0.109694227341286
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2017,"URINE","Escherichia coli","Imipenem",124,48,1,2.08333333333333
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"URINE","Escherichia coli","Imipenem",120,38,1,2.63157894736842
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"URINE","Escherichia coli","Imipenem",175,76,1,1.31578947368421
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"URINE","Escherichia coli","Imipenem",253,74,1,1.35135135135135
+"LBN","Lebanon","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Imipenem",2017,70,1,1.42857142857143
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Imipenem",3964,3135,34,1.08452950558214
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Imipenem",1363,1105,8,0.723981900452489
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Imipenem",3918,2195,28,1.27562642369021
+"MYS","Malaysia","Western Pacific Region",2017,"URINE","Escherichia coli","Imipenem",19286,11991,63,0.525394045534151
+"MYS","Malaysia","Western Pacific Region",2018,"URINE","Escherichia coli","Imipenem",19914,12075,81,0.670807453416149
+"MYS","Malaysia","Western Pacific Region",2019,"URINE","Escherichia coli","Imipenem",19312,11984,76,0.634178905206943
+"MYS","Malaysia","Western Pacific Region",2020,"URINE","Escherichia coli","Imipenem",18124,11290,55,0.487156775907883
+"NPL","Nepal","South-East Asia Region",2017,"URINE","Escherichia coli","Imipenem",295,192,0,0
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Escherichia coli","Imipenem",4866,568,130,22.887323943662
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Escherichia coli","Imipenem",9953,1162,292,25.1290877796902
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Escherichia coli","Imipenem",5975,1840,126,6.84782608695652
+"OMN","Oman","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Imipenem",4377,1683,26,1.54486036838978
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Imipenem",3636,998,15,1.50300601202405
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Imipenem",8941,2654,27,1.01733232856066
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Imipenem",3343,168,15,8.92857142857143
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Imipenem",8946,6200,321,5.17741935483871
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Imipenem",14284,3320,133,4.00602409638554
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Imipenem",15455,11477,735,6.40411257297203
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Imipenem",28695,5852,334,5.70745044429255
+"PHL","Philippines","Western Pacific Region",2017,"URINE","Escherichia coli","Imipenem",6689,3882,168,4.32766615146832
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Imipenem",8074,4207,187,4.44497266460661
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Imipenem",9132,5190,292,5.626204238921
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Imipenem",4560,2888,258,8.93351800554017
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Imipenem",3860,2712,75,2.76548672566372
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Imipenem",5627,3706,77,2.07771181867242
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Imipenem",5587,3261,53,1.62526832260043
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Imipenem",4464,2967,37,1.24705089315807
+"SWE","Sweden","European Region",2017,"URINE","Escherichia coli","Imipenem",140606,14616,5,0.0342090859332239
+"SWE","Sweden","European Region",2018,"URINE","Escherichia coli","Imipenem",115520,10206,4,0.0391926317852244
+"SWE","Sweden","European Region",2019,"URINE","Escherichia coli","Imipenem",229294,22549,6,0.0266087187901902
+"SWE","Sweden","European Region",2020,"URINE","Escherichia coli","Imipenem",441656,40624,20,0.0492319810949193
+"THA","Thailand","South-East Asia Region",2017,"URINE","Escherichia coli","Imipenem",2250,1231,17,1.38099106417547
+"THA","Thailand","South-East Asia Region",2018,"URINE","Escherichia coli","Imipenem",4301,2256,90,3.98936170212766
+"THA","Thailand","South-East Asia Region",2019,"URINE","Escherichia coli","Imipenem",9011,4969,109,2.19360032199638
+"THA","Thailand","South-East Asia Region",2020,"URINE","Escherichia coli","Imipenem",11131,7266,235,3.23424167354803
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Imipenem",3523,2195,1,0.0455580865603645
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Imipenem",12711,7981,6,0.0751785490540033
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Imipenem",5444,3206,3,0.0935745477230193
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Imipenem",5309,2857,2,0.0700035001750088

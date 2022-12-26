@@ -1,0 +1,48 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Meropenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"STOOL","Salmonella spp.","Meropenem",0,0,0,0,0.529100529100529
+2018,"STOOL","Salmonella spp.","Meropenem",0,0,0,0,0.5
+2019,"STOOL","Salmonella spp.","Meropenem",0,0,0,0,0.523560209424084
+2020,"STOOL","Salmonella spp.","Meropenem",0,0,0,0,3.125
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"STOOL","Salmonella spp.","Meropenem",653,334,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Meropenem",818,446,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Meropenem",1005,599,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Meropenem",1068,590,0,0
+"ARG","Argentina","Region of the Americas",2017,"STOOL","Salmonella spp.","Meropenem",3022,189,1,0.529100529100529
+"ARG","Argentina","Region of the Americas",2018,"STOOL","Salmonella spp.","Meropenem",3376,200,1,0.5
+"ARG","Argentina","Region of the Americas",2019,"STOOL","Salmonella spp.","Meropenem",2892,191,1,0.523560209424084
+"ARG","Argentina","Region of the Americas",2020,"STOOL","Salmonella spp.","Meropenem",2201,155,0,0
+"CHE","Switzerland","European Region",2017,"STOOL","Salmonella spp.","Meropenem",591,55,0,0
+"CHE","Switzerland","European Region",2018,"STOOL","Salmonella spp.","Meropenem",592,145,0,0
+"CHE","Switzerland","European Region",2019,"STOOL","Salmonella spp.","Meropenem",640,153,0,0
+"CHE","Switzerland","European Region",2020,"STOOL","Salmonella spp.","Meropenem",482,118,0,0
+"FIN","Finland","European Region",2017,"STOOL","Salmonella spp.","Meropenem",1181,140,0,0
+"FIN","Finland","European Region",2018,"STOOL","Salmonella spp.","Meropenem",873,162,0,0
+"FIN","Finland","European Region",2019,"STOOL","Salmonella spp.","Meropenem",927,137,0,0
+"FIN","Finland","European Region",2020,"STOOL","Salmonella spp.","Meropenem",455,64,2,3.125
+"JPN","Japan","Western Pacific Region",2017,"STOOL","Salmonella spp.","Meropenem",418,336,0,0
+"JPN","Japan","Western Pacific Region",2018,"STOOL","Salmonella spp.","Meropenem",317,161,0,0
+"JPN","Japan","Western Pacific Region",2019,"STOOL","Salmonella spp.","Meropenem",306,215,0,0
+"JPN","Japan","Western Pacific Region",2020,"STOOL","Salmonella spp.","Meropenem",241,167,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"STOOL","Salmonella spp.","Meropenem",1922,118,0,0
+"MYS","Malaysia","Western Pacific Region",2018,"STOOL","Salmonella spp.","Meropenem",1999,140,0,0
+"MYS","Malaysia","Western Pacific Region",2019,"STOOL","Salmonella spp.","Meropenem",2165,208,0,0
+"MYS","Malaysia","Western Pacific Region",2020,"STOOL","Salmonella spp.","Meropenem",2083,121,0,0
+"POL","Poland","European Region",2017,"STOOL","Salmonella spp.","Meropenem",531,44,0,0
+"POL","Poland","European Region",2018,"STOOL","Salmonella spp.","Meropenem",539,143,0,0
+"POL","Poland","European Region",2019,"STOOL","Salmonella spp.","Meropenem",232,37,0,0
+"POL","Poland","European Region",2020,"STOOL","Salmonella spp.","Meropenem",156,46,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"STOOL","Salmonella spp.","Meropenem",225,207,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Meropenem",166,148,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Meropenem",235,163,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Meropenem",103,91,0,0

@@ -1,0 +1,92 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Imipenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Escherichia coli","Imipenem",0,0,0.387596899224806,1.53552305080319,16.8905950095969
+2018,"BLOOD","Escherichia coli","Imipenem",0,0.0389237863705886,0.472095767998651,2.88753799392097,21.6814159292035
+2019,"BLOOD","Escherichia coli","Imipenem",0,0.0948940945370717,1.11731843575419,3.63700564971751,27.6070094800345
+2020,"BLOOD","Escherichia coli","Imipenem",0,0.0347727728993018,0.772514738768042,2.15525241276912,28.6027397260274
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Imipenem",1982,620,9,1.45161290322581
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Imipenem",2452,762,10,1.31233595800525
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Imipenem",2464,716,6,0.837988826815642
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Imipenem",2925,741,15,2.02429149797571
+"ARG","Argentina","Region of the Americas",2017,"BLOOD","Escherichia coli","Imipenem",6657,1806,7,0.387596899224806
+"ARG","Argentina","Region of the Americas",2018,"BLOOD","Escherichia coli","Imipenem",7385,2097,4,0.190748688602766
+"ARG","Argentina","Region of the Americas",2019,"BLOOD","Escherichia coli","Imipenem",5783,1705,10,0.586510263929619
+"ARG","Argentina","Region of the Americas",2020,"BLOOD","Escherichia coli","Imipenem",7376,1929,8,0.414722654224987
+"BIH","Bosnia and Herzegovina","European Region",2017,"BLOOD","Escherichia coli","Imipenem",634,183,2,1.09289617486339
+"BIH","Bosnia and Herzegovina","European Region",2018,"BLOOD","Escherichia coli","Imipenem",841,245,0,0
+"BIH","Bosnia and Herzegovina","European Region",2019,"BLOOD","Escherichia coli","Imipenem",1020,290,0,0
+"BIH","Bosnia and Herzegovina","European Region",2020,"BLOOD","Escherichia coli","Imipenem",954,179,0,0
+"CHE","Switzerland","European Region",2017,"BLOOD","Escherichia coli","Imipenem",9259,4896,2,0.0408496732026144
+"CHE","Switzerland","European Region",2018,"BLOOD","Escherichia coli","Imipenem",19539,10901,6,0.055040821942941
+"CHE","Switzerland","European Region",2019,"BLOOD","Escherichia coli","Imipenem",10424,5703,2,0.0350692617920393
+"CHE","Switzerland","European Region",2020,"BLOOD","Escherichia coli","Imipenem",10256,5600,2,0.0357142857142857
+"GEO","Georgia","European Region",2017,"BLOOD","Escherichia coli","Imipenem",105,15,0,0
+"GEO","Georgia","European Region",2018,"BLOOD","Escherichia coli","Imipenem",216,48,4,8.33333333333333
+"GEO","Georgia","European Region",2019,"BLOOD","Escherichia coli","Imipenem",433,78,6,7.69230769230769
+"GEO","Georgia","European Region",2020,"BLOOD","Escherichia coli","Imipenem",741,135,1,0.740740740740741
+"IND","India","South-East Asia Region",2017,"BLOOD","Escherichia coli","Imipenem",8532,1042,176,16.8905950095969
+"IND","India","South-East Asia Region",2018,"BLOOD","Escherichia coli","Imipenem",14459,1582,343,21.6814159292035
+"IND","India","South-East Asia Region",2019,"BLOOD","Escherichia coli","Imipenem",24223,3481,961,27.6070094800345
+"IND","India","South-East Asia Region",2020,"BLOOD","Escherichia coli","Imipenem",12371,1825,522,28.6027397260274
+"JOR","Jordan","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Imipenem",18,10,0,0
+"JOR","Jordan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Imipenem",345,97,0,0
+"JOR","Jordan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Imipenem",627,168,7,4.16666666666667
+"JOR","Jordan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Imipenem",446,99,7,7.07070707070707
+"JPN","Japan","Western Pacific Region",2017,"BLOOD","Escherichia coli","Imipenem",168145,86024,19,0.022086859481075
+"JPN","Japan","Western Pacific Region",2018,"BLOOD","Escherichia coli","Imipenem",126859,65770,15,0.0228067507982363
+"JPN","Japan","Western Pacific Region",2019,"BLOOD","Escherichia coli","Imipenem",136246,70895,21,0.029621270893575
+"JPN","Japan","Western Pacific Region",2020,"BLOOD","Escherichia coli","Imipenem",142185,76852,26,0.0338312600843179
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Escherichia coli","Imipenem",3518,1772,3,0.169300225733634
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Escherichia coli","Imipenem",3519,1724,1,0.0580046403712297
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Escherichia coli","Imipenem",3646,1939,3,0.154718927282104
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Escherichia coli","Imipenem",4095,2209,1,0.0452693526482571
+"MKD","North Macedonia","European Region",2017,"BLOOD","Escherichia coli","Imipenem",175,76,0,0
+"MKD","North Macedonia","European Region",2018,"BLOOD","Escherichia coli","Imipenem",176,54,2,3.7037037037037
+"MKD","North Macedonia","European Region",2019,"BLOOD","Escherichia coli","Imipenem",276,82,1,1.21951219512195
+"MKD","North Macedonia","European Region",2020,"BLOOD","Escherichia coli","Imipenem",293,48,1,2.08333333333333
+"MLT","Malta","European Region",2017,"BLOOD","Escherichia coli","Imipenem",574,321,0,0
+"MLT","Malta","European Region",2018,"BLOOD","Escherichia coli","Imipenem",1116,352,0,0
+"MLT","Malta","European Region",2019,"BLOOD","Escherichia coli","Imipenem",624,358,0,0
+"MLT","Malta","European Region",2020,"BLOOD","Escherichia coli","Imipenem",530,277,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Escherichia coli","Imipenem",25686,5886,32,0.54366292898403
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Escherichia coli","Imipenem",26268,5931,28,0.472095767998651
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Escherichia coli","Imipenem",25194,6332,64,1.01073910296905
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Escherichia coli","Imipenem",20249,4919,38,0.772514738768042
+"OMN","Oman","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Imipenem",1043,247,4,1.61943319838057
+"OMN","Oman","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Imipenem",631,141,3,2.12765957446809
+"OMN","Oman","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Imipenem",1007,354,11,3.10734463276836
+"OMN","Oman","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Imipenem",876,17,0,0
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Imipenem",2323,814,84,10.3194103194103
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Imipenem",7410,1094,144,13.1627056672761
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Imipenem",8980,704,140,19.8863636363636
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Imipenem",5623,476,110,23.109243697479
+"PHL","Philippines","Western Pacific Region",2017,"BLOOD","Escherichia coli","Imipenem",5103,923,44,4.7670639219935
+"PHL","Philippines","Western Pacific Region",2018,"BLOOD","Escherichia coli","Imipenem",5595,987,36,3.64741641337386
+"PHL","Philippines","Western Pacific Region",2019,"BLOOD","Escherichia coli","Imipenem",6468,1206,71,5.88723051409619
+"PHL","Philippines","Western Pacific Region",2020,"BLOOD","Escherichia coli","Imipenem",4276,795,56,7.0440251572327
+"RUS","Russian Federation","European Region",2017,"BLOOD","Escherichia coli","Imipenem",321,52,0,0
+"RUS","Russian Federation","European Region",2018,"BLOOD","Escherichia coli","Imipenem",427,81,0,0
+"RUS","Russian Federation","European Region",2019,"BLOOD","Escherichia coli","Imipenem",1173,123,2,1.6260162601626
+"RUS","Russian Federation","European Region",2020,"BLOOD","Escherichia coli","Imipenem",1305,104,2,1.92307692307692
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Imipenem",1491,353,12,3.39943342776204
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Imipenem",2420,527,7,1.32827324478178
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Imipenem",2528,537,6,1.11731843575419
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Imipenem",2458,449,10,2.2271714922049
+"THA","Thailand","South-East Asia Region",2017,"BLOOD","Escherichia coli","Imipenem",1349,427,2,0.468384074941452
+"THA","Thailand","South-East Asia Region",2018,"BLOOD","Escherichia coli","Imipenem",2629,745,6,0.805369127516779
+"THA","Thailand","South-East Asia Region",2019,"BLOOD","Escherichia coli","Imipenem",5463,1834,29,1.58124318429662
+"THA","Thailand","South-East Asia Region",2020,"BLOOD","Escherichia coli","Imipenem",6159,2394,33,1.37844611528822
+"TUN","Tunisia","Eastern Mediterranean Region",2017,"BLOOD","Escherichia coli","Imipenem",835,77,0,0
+"TUN","Tunisia","Eastern Mediterranean Region",2018,"BLOOD","Escherichia coli","Imipenem",1660,249,1,0.401606425702811
+"TUN","Tunisia","Eastern Mediterranean Region",2019,"BLOOD","Escherichia coli","Imipenem",932,108,0,0
+"TUN","Tunisia","Eastern Mediterranean Region",2020,"BLOOD","Escherichia coli","Imipenem",917,84,0,0

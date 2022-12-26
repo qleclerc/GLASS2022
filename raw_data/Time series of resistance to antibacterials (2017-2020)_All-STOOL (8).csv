@@ -1,0 +1,20 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gastrointestinal
+Bacterial pathogen filter: Shigella spp.
+Antibiotic filter: Azithromycin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"STOOL","Shigella spp.","Azithromycin",2.42966751918159,2.42966751918159,2.42966751918159,2.42966751918159,2.42966751918159
+2018,"STOOL","Shigella spp.","Azithromycin",1.8783542039356,1.8783542039356,1.8783542039356,1.8783542039356,1.8783542039356
+2019,"STOOL","Shigella spp.","Azithromycin",1.35644310474755,1.35644310474755,1.35644310474755,1.35644310474755,1.35644310474755
+2020,"STOOL","Shigella spp.","Azithromycin",0.535714285714286,0.535714285714286,0.535714285714286,0.535714285714286,0.535714285714286
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARG","Argentina","Region of the Americas",2017,"STOOL","Shigella spp.","Azithromycin",3022,782,19,2.42966751918159
+"ARG","Argentina","Region of the Americas",2018,"STOOL","Shigella spp.","Azithromycin",3376,1118,21,1.8783542039356
+"ARG","Argentina","Region of the Americas",2019,"STOOL","Shigella spp.","Azithromycin",2892,1327,18,1.35644310474755
+"ARG","Argentina","Region of the Americas",2020,"STOOL","Shigella spp.","Azithromycin",2201,1120,6,0.535714285714286

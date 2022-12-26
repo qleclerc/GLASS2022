@@ -1,0 +1,36 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+Antibiotic filter: Cefixime
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"GENITAL","Neisseria gonorrhoeae","Cefixime",0,0,0.53475935828877,0.862068965517241,30.9597523219814
+2018,"GENITAL","Neisseria gonorrhoeae","Cefixime",0,0.882352941176471,4.21052631578947,5.55555555555556,28.8578901482127
+2019,"GENITAL","Neisseria gonorrhoeae","Cefixime",0,0,0,1.23076923076923,33.3661417322835
+2020,"GENITAL","Neisseria gonorrhoeae","Cefixime",0,0,0.689655172413793,2.10526315789474,33.1288343558282
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"CHE","Switzerland","European Region",2017,"GENITAL","Neisseria gonorrhoeae","Cefixime",94,26,0,0
+"CHE","Switzerland","European Region",2018,"GENITAL","Neisseria gonorrhoeae","Cefixime",110,54,3,5.55555555555556
+"CHE","Switzerland","European Region",2019,"GENITAL","Neisseria gonorrhoeae","Cefixime",154,85,0,0
+"CHE","Switzerland","European Region",2020,"GENITAL","Neisseria gonorrhoeae","Cefixime",154,67,0,0
+"JPN","Japan","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Cefixime",982,969,300,30.9597523219814
+"JPN","Japan","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Cefixime",1167,1147,331,28.8578901482127
+"JPN","Japan","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Cefixime",1023,1016,339,33.3661417322835
+"JPN","Japan","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Cefixime",825,815,270,33.1288343558282
+"NOR","Norway","European Region",2017,"GENITAL","Neisseria gonorrhoeae","Cefixime",374,374,2,0.53475935828877
+"NOR","Norway","European Region",2018,"GENITAL","Neisseria gonorrhoeae","Cefixime",226,226,0,0
+"NOR","Norway","European Region",2019,"GENITAL","Neisseria gonorrhoeae","Cefixime",325,325,4,1.23076923076923
+"NOR","Norway","European Region",2020,"GENITAL","Neisseria gonorrhoeae","Cefixime",475,475,10,2.10526315789474
+"PHL","Philippines","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Cefixime",119,116,1,0.862068965517241
+"PHL","Philippines","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Cefixime",103,95,4,4.21052631578947
+"PHL","Philippines","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Cefixime",140,65,0,0
+"PHL","Philippines","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Cefixime",44,25,0,0
+"UGA","Uganda","African Region",2017,"GENITAL","Neisseria gonorrhoeae","Cefixime",355,352,0,0
+"UGA","Uganda","African Region",2018,"GENITAL","Neisseria gonorrhoeae","Cefixime",340,340,3,0.882352941176471
+"UGA","Uganda","African Region",2019,"GENITAL","Neisseria gonorrhoeae","Cefixime",329,328,0,0
+"UGA","Uganda","African Region",2020,"GENITAL","Neisseria gonorrhoeae","Cefixime",290,290,2,0.689655172413793

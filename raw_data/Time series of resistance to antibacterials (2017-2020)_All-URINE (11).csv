@@ -1,0 +1,52 @@
+Filters
+Region filter: All
+Infection syndrome filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Levofloxacin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"URINE","Escherichia coli","Levofloxacin",10.293453724605,25.4430379746835,40.7593123209169,53.8116591928251,72.5075528700906
+2018,"URINE","Escherichia coli","Levofloxacin",10.9269059916258,28.9350301406564,34.6600932909318,42.8445618670189,48.1378026070764
+2019,"URINE","Escherichia coli","Levofloxacin",10.6575750155399,35.0209205020921,38.8198757763975,47.3951715374841,75.6756756756757
+2020,"URINE","Escherichia coli","Levofloxacin",10.2198484660291,26.4582710140592,35.5102040816327,50.71907957814,65.8739146847867
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Levofloxacin",13558,790,201,25.4430379746835
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Levofloxacin",22331,2986,864,28.9350301406564
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Levofloxacin",27055,6296,2984,47.3951715374841
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Levofloxacin",29681,6686,1769,26.4582710140592
+"CHE","Switzerland","European Region",2017,"URINE","Escherichia coli","Levofloxacin",97650,2368,386,16.3006756756757
+"CHE","Switzerland","European Region",2018,"URINE","Escherichia coli","Levofloxacin",118114,31871,4462,14.0001882589188
+"CHE","Switzerland","European Region",2019,"URINE","Escherichia coli","Levofloxacin",139721,41018,5331,12.9967331415476
+"CHE","Switzerland","European Region",2020,"URINE","Escherichia coli","Levofloxacin",153286,41985,5147,12.259140169108
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2017,"URINE","Escherichia coli","Levofloxacin",810851,35440,3648,10.293453724605
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Escherichia coli","Levofloxacin",863293,47049,5141,10.9269059916258
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Escherichia coli","Levofloxacin",880701,53089,5658,10.6575750155399
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Escherichia coli","Levofloxacin",651538,40255,4114,10.2198484660291
+"JPN","Japan","Western Pacific Region",2017,"URINE","Escherichia coli","Levofloxacin",452366,373263,140492,37.6388766097899
+"JPN","Japan","Western Pacific Region",2018,"URINE","Escherichia coli","Levofloxacin",423516,350302,121415,34.6600932909318
+"JPN","Japan","Western Pacific Region",2019,"URINE","Escherichia coli","Levofloxacin",453889,375167,131962,35.1742024218548
+"JPN","Japan","Western Pacific Region",2020,"URINE","Escherichia coli","Levofloxacin",475584,393343,139589,35.4878566543704
+"NPL","Nepal","South-East Asia Region",2017,"URINE","Escherichia coli","Levofloxacin",295,236,164,69.4915254237288
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Escherichia coli","Levofloxacin",4866,1074,517,48.1378026070764
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Escherichia coli","Levofloxacin",9953,2390,837,35.0209205020921
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Escherichia coli","Levofloxacin",5975,1218,461,37.8489326765189
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Levofloxacin",8946,2317,1680,72.5075528700906
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Levofloxacin",14284,819,267,32.6007326007326
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Levofloxacin",15455,37,28,75.6756756756757
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Levofloxacin",28695,2649,1745,65.8739146847867
+"PHL","Philippines","Western Pacific Region",2017,"URINE","Escherichia coli","Levofloxacin",6689,1732,748,43.1870669745958
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Levofloxacin",8074,2271,973,42.8445618670189
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Levofloxacin",9132,2421,1063,43.9074762494837
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Levofloxacin",4560,1043,529,50.71907957814
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Levofloxacin",3860,1396,569,40.7593123209169
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Levofloxacin",5627,3177,1331,41.8948693736229
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Levofloxacin",5587,2898,1125,38.8198757763975
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Levofloxacin",4464,2695,957,35.5102040816327
+"THA","Thailand","South-East Asia Region",2017,"URINE","Escherichia coli","Levofloxacin",2250,446,240,53.8116591928251
+"THA","Thailand","South-East Asia Region",2018,"URINE","Escherichia coli","Levofloxacin",4301,533,238,44.6529080675422
+"THA","Thailand","South-East Asia Region",2019,"URINE","Escherichia coli","Levofloxacin",9011,1361,756,55.547391623806
+"THA","Thailand","South-East Asia Region",2020,"URINE","Escherichia coli","Levofloxacin",11131,2513,1513,60.2069239952248

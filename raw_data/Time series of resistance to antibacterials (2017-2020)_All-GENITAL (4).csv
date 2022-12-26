@@ -1,0 +1,32 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gonorrhoea
+Bacterial pathogen filter: Neisseria gonorrhoeae
+Antibiotic filter: Spectinomycin
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0.233644859813084,0.934579439252336
+2018,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,0
+2019,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,0
+2020,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",0,0,0,0,0
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"JPN","Japan","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",982,982,0,0
+"JPN","Japan","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",1167,1167,0,0
+"JPN","Japan","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",1023,1023,0,0
+"JPN","Japan","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",825,825,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",217,19,0,0
+"MYS","Malaysia","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",183,31,0,0
+"MYS","Malaysia","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",168,19,0,0
+"MYS","Malaysia","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",138,26,0,0
+"PHL","Philippines","Western Pacific Region",2017,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",119,107,1,0.934579439252336
+"PHL","Philippines","Western Pacific Region",2018,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",103,47,0,0
+"PHL","Philippines","Western Pacific Region",2019,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",140,119,0,0
+"PHL","Philippines","Western Pacific Region",2020,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",44,16,0,0
+"ZAF","South Africa","African Region",2017,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",286,274,0,0
+"ZAF","South Africa","African Region",2018,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",167,163,0,0
+"ZAF","South Africa","African Region",2019,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",227,225,0,0
+"ZAF","South Africa","African Region",2020,"GENITAL","Neisseria gonorrhoeae","Spectinomycin",316,309,0,0

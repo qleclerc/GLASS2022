@@ -1,0 +1,48 @@
+Filters
+Region filter: All
+Infection syndrome filter: Gastrointestinal
+Bacterial pathogen filter: Salmonella spp.
+Antibiotic filter: Imipenem
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"STOOL","Salmonella spp.","Imipenem",0,0,0,1.0984927149712,5.63380281690141
+2018,"STOOL","Salmonella spp.","Imipenem",0,0,0,0.281542129368216,0.775193798449612
+2019,"STOOL","Salmonella spp.","Imipenem",0,0,0,0.287546343472888,0.613496932515337
+2020,"STOOL","Salmonella spp.","Imipenem",0,0,0,0.425838926174497,1.0989010989011
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"STOOL","Salmonella spp.","Imipenem",653,322,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Imipenem",818,443,0,0
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Imipenem",1005,599,3,0.500834724540901
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Imipenem",1068,596,3,0.503355704697987
+"ARG","Argentina","Region of the Americas",2017,"STOOL","Salmonella spp.","Imipenem",3022,191,2,1.04712041884817
+"ARG","Argentina","Region of the Americas",2018,"STOOL","Salmonella spp.","Imipenem",3376,198,1,0.505050505050505
+"ARG","Argentina","Region of the Americas",2019,"STOOL","Salmonella spp.","Imipenem",2892,192,0,0
+"ARG","Argentina","Region of the Americas",2020,"STOOL","Salmonella spp.","Imipenem",2201,155,0,0
+"JPN","Japan","Western Pacific Region",2017,"STOOL","Salmonella spp.","Imipenem",418,336,0,0
+"JPN","Japan","Western Pacific Region",2018,"STOOL","Salmonella spp.","Imipenem",317,161,0,0
+"JPN","Japan","Western Pacific Region",2019,"STOOL","Salmonella spp.","Imipenem",306,215,0,0
+"JPN","Japan","Western Pacific Region",2020,"STOOL","Salmonella spp.","Imipenem",241,167,0,0
+"KOR","Republic of Korea","Western Pacific Region",2017,"STOOL","Salmonella spp.","Imipenem",173,172,0,0
+"KOR","Republic of Korea","Western Pacific Region",2018,"STOOL","Salmonella spp.","Imipenem",165,163,0,0
+"KOR","Republic of Korea","Western Pacific Region",2019,"STOOL","Salmonella spp.","Imipenem",140,140,0,0
+"KOR","Republic of Korea","Western Pacific Region",2020,"STOOL","Salmonella spp.","Imipenem",102,102,0,0
+"MYS","Malaysia","Western Pacific Region",2017,"STOOL","Salmonella spp.","Imipenem",1922,117,0,0
+"MYS","Malaysia","Western Pacific Region",2018,"STOOL","Salmonella spp.","Imipenem",1999,139,0,0
+"MYS","Malaysia","Western Pacific Region",2019,"STOOL","Salmonella spp.","Imipenem",2165,208,0,0
+"MYS","Malaysia","Western Pacific Region",2020,"STOOL","Salmonella spp.","Imipenem",2083,120,0,0
+"POL","Poland","European Region",2017,"STOOL","Salmonella spp.","Imipenem",531,45,0,0
+"POL","Poland","European Region",2018,"STOOL","Salmonella spp.","Imipenem",539,97,0,0
+"POL","Poland","European Region",2019,"STOOL","Salmonella spp.","Imipenem",232,36,0,0
+"POL","Poland","European Region",2020,"STOOL","Salmonella spp.","Imipenem",156,46,0,0
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"STOOL","Salmonella spp.","Imipenem",225,213,12,5.63380281690141
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"STOOL","Salmonella spp.","Imipenem",166,129,1,0.775193798449612
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"STOOL","Salmonella spp.","Imipenem",235,163,1,0.613496932515337
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"STOOL","Salmonella spp.","Imipenem",103,91,1,1.0989010989011
+"ZAF","South Africa","African Region",2017,"STOOL","Salmonella spp.","Imipenem",1338,479,6,1.25260960334029
+"ZAF","South Africa","African Region",2018,"STOOL","Salmonella spp.","Imipenem",1481,483,1,0.20703933747412
+"ZAF","South Africa","African Region",2019,"STOOL","Salmonella spp.","Imipenem",1225,462,1,0.216450216450216
+"ZAF","South Africa","African Region",2020,"STOOL","Salmonella spp.","Imipenem",1138,500,2,0.4

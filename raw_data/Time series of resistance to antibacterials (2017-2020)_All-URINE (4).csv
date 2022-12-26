@@ -1,0 +1,80 @@
+Filters
+Region filter: All
+Infection syndrome filter: Urinary tract
+Bacterial pathogen filter: Escherichia coli
+Antibiotic filter: Ceftriaxone
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"URINE","Escherichia coli","Ceftriaxone",3.5444965149749,22.6089431809305,44.6599204059036,58.0128920638464,99.5798319327731
+2018,"URINE","Escherichia coli","Ceftriaxone",6.23565103312561,21.7954753283749,41.8863013321545,54.8846561113352,75.8620689655172
+2019,"URINE","Escherichia coli","Ceftriaxone",6.1983774457619,22.3592345572543,45.5777433365178,51.0397295831396,71.9376790830946
+2020,"URINE","Escherichia coli","Ceftriaxone",5.90249887457962,22.6740060658426,45.1905141409825,54.6433905899925,76.7955801104972
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ceftriaxone",13558,2477,832,33.589018974566
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ceftriaxone",22331,6649,2008,30.2000300797112
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ceftriaxone",27055,8314,2252,27.0868414722155
+"ARE","United Arab Emirates","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ceftriaxone",29681,6870,1959,28.5152838427948
+"BGD","Bangladesh","South-East Asia Region",2017,"URINE","Escherichia coli","Ceftriaxone",209,93,50,53.763440860215
+"BGD","Bangladesh","South-East Asia Region",2018,"URINE","Escherichia coli","Ceftriaxone",412,240,131,54.5833333333333
+"BGD","Bangladesh","South-East Asia Region",2019,"URINE","Escherichia coli","Ceftriaxone",488,324,177,54.6296296296296
+"BGD","Bangladesh","South-East Asia Region",2020,"URINE","Escherichia coli","Ceftriaxone",261,195,111,56.9230769230769
+"CHE","Switzerland","European Region",2017,"URINE","Escherichia coli","Ceftriaxone",97650,9755,548,5.61763198359816
+"CHE","Switzerland","European Region",2018,"URINE","Escherichia coli","Ceftriaxone",118114,97568,6084,6.23565103312561
+"CHE","Switzerland","European Region",2019,"URINE","Escherichia coli","Ceftriaxone",139721,108964,6754,6.1983774457619
+"CHE","Switzerland","European Region",2020,"URINE","Escherichia coli","Ceftriaxone",153286,113291,6687,5.90249887457962
+"FIN","Finland","European Region",2017,"URINE","Escherichia coli","Ceftriaxone",281729,42037,1490,3.5444965149749
+"FIN","Finland","European Region",2018,"URINE","Escherichia coli","Ceftriaxone",159588,47715,4906,10.2818820077544
+"FIN","Finland","European Region",2019,"URINE","Escherichia coli","Ceftriaxone",159676,47068,5312,11.2857992691425
+"FIN","Finland","European Region",2020,"URINE","Escherichia coli","Ceftriaxone",146108,42718,4760,11.1428437660939
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2017,"URINE","Escherichia coli","Ceftriaxone",810851,53249,5713,10.7288399782156
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2018,"URINE","Escherichia coli","Ceftriaxone",863293,65248,7030,10.7742766061795
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2019,"URINE","Escherichia coli","Ceftriaxone",880701,87398,8730,9.98878692876267
+"GBR","United Kingdom of Great Britain and Northern Ireland","European Region",2020,"URINE","Escherichia coli","Ceftriaxone",651538,64670,6260,9.67991340652544
+"IND","India","South-East Asia Region",2017,"URINE","Escherichia coli","Ceftriaxone",10034,964,764,79.253112033195
+"IND","India","South-East Asia Region",2018,"URINE","Escherichia coli","Ceftriaxone",25203,1589,1040,65.449968533669
+"IND","India","South-East Asia Region",2019,"URINE","Escherichia coli","Ceftriaxone",47746,3232,2219,68.6571782178218
+"IND","India","South-East Asia Region",2020,"URINE","Escherichia coli","Ceftriaxone",18235,362,278,76.7955801104972
+"JPN","Japan","Western Pacific Region",2017,"URINE","Escherichia coli","Ceftriaxone",452366,272346,63232,23.2175247662899
+"JPN","Japan","Western Pacific Region",2018,"URINE","Escherichia coli","Ceftriaxone",423516,248610,54524,21.9315393588351
+"JPN","Japan","Western Pacific Region",2019,"URINE","Escherichia coli","Ceftriaxone",453889,259131,58774,22.6811921383393
+"JPN","Japan","Western Pacific Region",2020,"URINE","Escherichia coli","Ceftriaxone",475584,271086,62027,22.8809307747357
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2017,"URINE","Escherichia coli","Ceftriaxone",124,85,64,75.2941176470588
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2018,"URINE","Escherichia coli","Ceftriaxone",120,87,66,75.8620689655172
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2019,"URINE","Escherichia coli","Ceftriaxone",175,117,83,70.9401709401709
+"LAO","Lao People's Democratic Republic","Western Pacific Region",2020,"URINE","Escherichia coli","Ceftriaxone",253,206,111,53.8834951456311
+"LBN","Lebanon","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ceftriaxone",2017,546,257,47.0695970695971
+"LBN","Lebanon","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ceftriaxone",3964,2403,1021,42.488555971702
+"LBN","Lebanon","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ceftriaxone",1363,883,438,49.60362400906
+"LBN","Lebanon","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ceftriaxone",3918,1921,903,47.0067673086934
+"MYS","Malaysia","Western Pacific Region",2017,"URINE","Escherichia coli","Ceftriaxone",19286,4571,950,20.7831984248523
+"MYS","Malaysia","Western Pacific Region",2018,"URINE","Escherichia coli","Ceftriaxone",19914,4325,925,21.3872832369942
+"MYS","Malaysia","Western Pacific Region",2019,"URINE","Escherichia coli","Ceftriaxone",19312,3043,651,21.3933618139993
+"MYS","Malaysia","Western Pacific Region",2020,"URINE","Escherichia coli","Ceftriaxone",18124,2630,580,22.0532319391635
+"NPL","Nepal","South-East Asia Region",2017,"URINE","Escherichia coli","Ceftriaxone",295,238,237,99.5798319327731
+"NPL","Nepal","South-East Asia Region",2018,"URINE","Escherichia coli","Ceftriaxone",4866,2479,1383,55.7886244453409
+"NPL","Nepal","South-East Asia Region",2019,"URINE","Escherichia coli","Ceftriaxone",9953,5455,2527,46.3244729605866
+"NPL","Nepal","South-East Asia Region",2020,"URINE","Escherichia coli","Ceftriaxone",5975,3235,1668,51.5610510046368
+"OMN","Oman","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ceftriaxone",4377,2424,852,35.1485148514851
+"OMN","Oman","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ceftriaxone",3636,1567,771,49.2022973835354
+"OMN","Oman","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ceftriaxone",8941,3824,1906,49.8430962343096
+"OMN","Oman","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ceftriaxone",3343,1145,790,68.9956331877729
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ceftriaxone",8946,5780,4090,70.7612456747405
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ceftriaxone",14284,2054,1515,73.7585199610516
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ceftriaxone",15455,11168,8034,71.9376790830946
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ceftriaxone",28695,5735,4066,70.8979947689625
+"PHL","Philippines","Western Pacific Region",2017,"URINE","Escherichia coli","Ceftriaxone",6689,3921,1675,42.7186942106605
+"PHL","Philippines","Western Pacific Region",2018,"URINE","Escherichia coli","Ceftriaxone",8074,5046,2078,41.1811335711455
+"PHL","Philippines","Western Pacific Region",2019,"URINE","Escherichia coli","Ceftriaxone",9132,5765,2465,42.7580225498699
+"PHL","Philippines","Western Pacific Region",2020,"URINE","Escherichia coli","Ceftriaxone",4560,2931,1292,44.0805185943364
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"URINE","Escherichia coli","Ceftriaxone",3860,1884,885,46.9745222929936
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"URINE","Escherichia coli","Ceftriaxone",5627,2977,1375,46.1874370171313
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"URINE","Escherichia coli","Ceftriaxone",5587,2701,1245,46.0940392447242
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"URINE","Escherichia coli","Ceftriaxone",4464,2168,990,45.6642066420664
+"THA","Thailand","South-East Asia Region",2017,"URINE","Escherichia coli","Ceftriaxone",2250,1221,569,46.6011466011466
+"THA","Thailand","South-East Asia Region",2018,"URINE","Escherichia coli","Ceftriaxone",4301,2570,1061,41.284046692607
+"THA","Thailand","South-East Asia Region",2019,"URINE","Escherichia coli","Ceftriaxone",9011,2197,990,45.0614474283113
+"THA","Thailand","South-East Asia Region",2020,"URINE","Escherichia coli","Ceftriaxone",11131,4732,2116,44.7168216398986

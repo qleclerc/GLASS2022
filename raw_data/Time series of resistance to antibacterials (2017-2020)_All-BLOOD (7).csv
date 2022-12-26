@@ -1,0 +1,32 @@
+Filters
+Region filter: All
+Infection syndrome filter: Bloodstream
+Bacterial pathogen filter: Acinetobacter spp.
+Antibiotic filter: Tigecycline
+
+Data for time series
+"Year","Specimen","PathogenName","AbTargets","Min","Q1","Median","Q3","Max"
+2017,"BLOOD","Acinetobacter spp.","Tigecycline",4.68085106382979,8.7715641173088,16.3719153936545,24.4565217391304,30
+2018,"BLOOD","Acinetobacter spp.","Tigecycline",2.42914979757085,7.94673699067712,20.5179663608563,32.5182174887892,36.322869955157
+2019,"BLOOD","Acinetobacter spp.","Tigecycline",8.65384615384615,12.8301282051282,19.6681887366819,26.7303532804614,31.5789473684211
+2020,"BLOOD","Acinetobacter spp.","Tigecycline",1.84331797235023,7.43757367913407,14.4787489975942,25.0862068965517,41.3793103448276
+
+
+Data for line plots for individual CTAs
+"Iso3","CountryTerritoryArea","WHORegionName","Year","Specimen","PathogenName","AbTargets","TotalSpecimenIsolates","InterpretableAST","Resistant","PercentResistant"
+"KOR","Republic of Korea","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Tigecycline",3518,235,11,4.68085106382979
+"KOR","Republic of Korea","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Tigecycline",3519,247,6,2.42914979757085
+"KOR","Republic of Korea","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Tigecycline",3646,225,32,14.2222222222222
+"KOR","Republic of Korea","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Tigecycline",4095,217,4,1.84331797235023
+"MYS","Malaysia","Western Pacific Region",2017,"BLOOD","Acinetobacter spp.","Tigecycline",25686,296,30,10.1351351351351
+"MYS","Malaysia","Western Pacific Region",2018,"BLOOD","Acinetobacter spp.","Tigecycline",26268,327,32,9.78593272171254
+"MYS","Malaysia","Western Pacific Region",2019,"BLOOD","Acinetobacter spp.","Tigecycline",25194,208,18,8.65384615384615
+"MYS","Malaysia","Western Pacific Region",2020,"BLOOD","Acinetobacter spp.","Tigecycline",20249,172,16,9.30232558139535
+"PAK","Pakistan","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Tigecycline",2323,90,27,30
+"PAK","Pakistan","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Tigecycline",7410,16,5,31.25
+"PAK","Pakistan","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Tigecycline",8980,38,12,31.5789473684211
+"PAK","Pakistan","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Tigecycline",5623,116,48,41.3793103448276
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2017,"BLOOD","Acinetobacter spp.","Tigecycline",1491,115,26,22.6086956521739
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2018,"BLOOD","Acinetobacter spp.","Tigecycline",2420,223,81,36.322869955157
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2019,"BLOOD","Acinetobacter spp.","Tigecycline",2528,219,55,25.1141552511416
+"SAU","Saudi Arabia","Eastern Mediterranean Region",2020,"BLOOD","Acinetobacter spp.","Tigecycline",2458,290,57,19.6551724137931
