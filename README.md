@@ -7,4 +7,4 @@ Original datasets from: Global antimicrobial resistance and use surveillance sys
 
 Code and compiled dataset by: Quentin Leclerc (quentin.leclerc@pasteur.fr; https://twitter.com/QuentinLclrc)
 
-This work is licensed under a (Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License)[https://creativecommons.org/licenses/by-nc-sa/3.0/igo/].
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/).
