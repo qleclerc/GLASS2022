@@ -43,6 +43,8 @@ Original datasets from: Global antimicrobial resistance and use surveillance sys
 
 Code and compiled dataset by: Quentin Leclerc (quentin.leclerc@pasteur.fr; https://twitter.com/QuentinLclrc)
 
+If you wish to acknowledge this repository as the source of the compiled dataset, please cite as: Leclerc, Q.J. (2022). Compiled data from WHO GLASS 2022 report (Version 1.0) [GitHub Repository]. https://doi.org/10.5281/zenodo.7486150
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/).
 The published material is being distributed without warranty of any kind, either expressed or implied. The
 responsibility for the interpretation and use of the material lies exclusively with the reader.
