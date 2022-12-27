@@ -30,7 +30,7 @@ Complete dataset variables:
 - **Specimen**: source of samples (blood, genital, stool, urine)
 - **PathogenName**: name of the bacteria species for which resistance is reported
 - **AbTargets**: antibiotic for which resistance is reported
-- **TotalSpecimenIsolates**: total isolates reported for this combination of year, CTA, bacteria, and antibiotic
+- **TotalSpecimenIsolates**: total isolates reported for this combination of year and CTA
 - **InterpretableAST**: total isolates with antibiotic susceptibility reported for this combination of year, CTA, bacteria, and antibiotic
 - **Resistant**: total isolates resistant for this combination of year, CTA, bacteria, and antibiotic
 - **PercentResistant**: percent of tested isolates that are resistant (=Resistant/InterpretableAST\*100)
