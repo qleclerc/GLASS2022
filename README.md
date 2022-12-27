@@ -20,7 +20,7 @@ This repository essentially "recreates" the complete GLASS dataset by compiling 
 
 I manually downloaded all the datasets for 91 bacteria-antibiotic combinations used to generate the "Time series of resistance to
 antibacterials (2017-2020)" plots in the app, and included them in the `raw_data` folder here. The script in `compilation_code.R` reads
-all these files, and generates the `compiled_WHO_GLASS_2022.csv` file.
+all these files, and generates the `compiled_WHO_GLASS_2022.csv` and `compiled_WHO_GLASS_2022.xlsx` files.
 
 Complete dataset variables:
 - **Iso3**: 3-letters country code
