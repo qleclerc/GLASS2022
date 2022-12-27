@@ -1,5 +1,10 @@
 # Compiled data from WHO GLASS 2022 report
 
+*You can directly load the compiled dataset in R, using for example
+`read.csv("https://raw.githubusercontent.com/qleclerc/GLASS2022/master/compiled_WHO_GLASS_2022.csv")`
+or
+`openxlsx::read.xlsx("https://github.com/qleclerc/GLASS2022/blob/master/compiled_WHO_GLASS_2022.xlsx?raw=true")`*
+
 ## Summary
 
 The World Health Organization [2022 GLASS report](https://www.who.int/publications/i/item/9789240062702) published in December 2022 presents global data on antimicrobial resistance from 2020.
