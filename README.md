@@ -1,4 +1,4 @@
-# COMPILED DATA FROM WHO GLASS 2022 REPORT
+# Compiled data from WHO GLASS 2022 report
 
 ## Summary
 
@@ -18,17 +18,17 @@ antibacterials (2017-2020)" plots in the app, and included them in the `raw_data
 all these files, and generates the `compiled_WHO_GLASS_2022.csv` file.
 
 Complete dataset variables:
-- Iso3: 3-letters country code
-- CountryTerritoryArea: complete country, territory, or area (CTA) name
-- WHORegionName: WHO region to which the CTA belongs
-- Year: data year (2017-2020)
-- Specimen: source of samples (blood, genital, stool, urine)
-- PathogenName: name of the bacteria species for which resistance is reported
-- AbTargets: antibiotic for which resistance is reported
-- TotalSpecimenIsolates: total isolates reported for this combination of year, CTA, bacteria, and antibiotic
-- InterpretableAST: total isolates with antibiotic susceptibility reported for this combination of year, CTA, bacteria, and antibiotic
-- Resistant: total isolates resistant for this combination of year, CTA, bacteria, and antibiotic
-- PercentResistant: percent of tested isolates that are resistant (=Resistant/InterpretableAST\*100)
+- *Iso3:* 3-letters country code
+- *CountryTerritoryArea:* complete country, territory, or area (CTA) name
+- *WHORegionName*: WHO region to which the CTA belongs
+- *Year*: data year (2017-2020)
+- *Specimen*: source of samples (blood, genital, stool, urine)
+- *PathogenName*: name of the bacteria species for which resistance is reported
+- *AbTargets*: antibiotic for which resistance is reported
+- *TotalSpecimenIsolates*: total isolates reported for this combination of year, CTA, bacteria, and antibiotic
+- *InterpretableAST*: total isolates with antibiotic susceptibility reported for this combination of year, CTA, bacteria, and antibiotic
+- *Resistant*: total isolates resistant for this combination of year, CTA, bacteria, and antibiotic
+- *PercentResistant*: percent of tested isolates that are resistant (=Resistant/InterpretableAST\*100)
 
 ## Disclaimers
 
